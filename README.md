@@ -19,14 +19,14 @@ As a highly-motivated and results-oriented individual, I thrive in data-driven a
 * **Database Management:**
   * RDBMS/ SQL (`Oracle`, `SQL Server`, mySQL)
   * NoSQL (studied not used)
-  * Other (JSON, XML, CSV)
+  * Other (`JSON`, `XML`, `CSV`)
 * **Content Management:**
   * Version Control (`Git`, BitBucket, CVS)
   * Documentation (`Jira`, Confluence)
-  * Test Driven Development
-  * Continuous Integration
+  * Test Driven Development (`TDD`)
+  * Continuous Integration (`CI`)
 * **Other Skills:**
-  * RESTful Web Services
+  * `RESTful` Web Services
   * `Agile` Methodologies
   * Critical Thinking
   * Collaboration and Teamwork
@@ -38,34 +38,34 @@ As a highly-motivated and results-oriented individual, I thrive in data-driven a
 #### 09/2018 - present
 
 ##### Recent Achievements:
-- Designed and developed an integration program (`Java 8`, `TDD`, `Maven`) to integrate data from our Legacy Enterprise Resource Planning (ERP) to our new Cloud Based ERP system. Applying `SOLID` principles the program made use of dependency injection and common `Design Patterns` including Factory, Consumer, and Producer patterns. In the process, creating a bespoke RESTful API library for making requests to the new ERP.
+- Designed and developed an integration program (`Java 8`, `TDD`, `Maven`) to integrate data from our Legacy Enterprise Resource Planning (ERP) to our new Cloud Based ERP system. Applying `SOLID principles` the program made use of dependency injection and common `Design Patterns` including Factory, Consumer, and Producer patterns. In the process, creating a bespoke RESTful API library for making requests to the new ERP.
 - Analysed and developed a prototype front-end procurement and purchasing integration between ServiceNow and our ERP. Written in `JavaScript`, the integration utilised RESTful APIs, complex workflows, business rules and smtp servers.
 - Led the first in-house release of a new extended version of our ERP system. Conducted the merging, deployment and testing (integration, system, helped with regression) of the new code base in our Staging and UAT environments.
 
 ##### Applications Development:
-- Cloud based (`AWS`) back-end development of extensions - in Java with XML configurations - to our ERP (PaaS). Acting as the lead technical expert on extensions, despite only being with the company for a short time. Highlighting my ability to grasp new technologies.
-- Designing, developing, and deploying bespoke integrations with our ERP. Utilising Java (8 and above) and recent improvements in Object Oriented and Functional Programming such as: `Streams`, `Lambdas`, and `Monads`.
+- Cloud based (`AWS`) back-end development of extensions - in `Java` with `XML` configurations - to our ERP (PaaS). Acting as the lead technical expert on extensions, despite only being with the company for a short time. Highlighting my ability to grasp new technologies.
+- Designing, developing, and deploying bespoke integrations with our ERP. Utilising Java (8 and above) and recent improvements in `Object Oriented` and `Functional` Programming such as: `Streams`, `Lambdas`, and `Monads`.
 - Developing electronic forms in JavaScript, Java, and `PL/SQL` with a focus on UI and UX.
 
 ##### Software Development Life Cycle:
-- Participated in Agile development, mainly `Scrum` with elements of `Kanban`, frequently deputising for the Scrum master during Stand-ups and Sprint Retrospectives.
+- Participated in `Agile` development, mainly `Scrum` with elements of `Kanban`, frequently deputising for the Scrum master during Stand-ups and Sprint Retrospectives.
 - Worked closely with our Operations team to support the business in the day-to-day use of our systems. Often taking calls directly with users to gather user stories and provide technical advice.
-- Analysed Product Backlog items in order to effectively estimate – via planning poker – the effort/ time to develop. In addition to undertaking technical feasibility analysis of more complex items.
-- Engaged in all forms of `testing` including unit testing, integration testing, system testing, regression testing, user acceptance testing and smoke testing, as well as regularly peer reviewing the work of other developers.
+- Analysed Product Backlog items in order to effectively estimate – via `planning poker` – the effort/ time to develop. In addition to undertaking technical feasibility analysis of more complex items.
+- Engaged in all forms of testing including `unit testing`, `integration testing`, `system testing`, `regression testing`, `user acceptance testing` and `smoke testing`, as well as regularly `peer reviewing` the work of other developers.
 
 ___
 ### Web and Communications Officer | Imperial College London, Department of Computing | South Kensington
 #### 01/2017 - 08/2018
 
 ##### Web management, digital engagement and communications
-- Supporting the development and maintenance of web-based computer systems.
+- Supporting the development and maintenance of `web-based computer systems`.
 - Responsible for maintaining and producing departmental `webpages`.
 - Responsible for the creation of interesting and engaging news stories based on departmental achievements, which reach a wide audience of academics, students and the general public.
 - Communicating with departments across the university to support them during significant dates throughout the year, such as arranging materials for the Faculty of Engineering’s ‘Women in Engineering’ week.
 - Responsible for managing the department’s official Twitter account.
 
 ##### Stakeholder management and industry relations:
-- Responsible for maintaining relations between the Department of Computing and `industry` stakeholders, the first point of call for all industrial liaison activities.
+- Responsible for maintaining relations between the Department of Computing and `industry stakeholders`, the first point of call for all industrial liaison activities.
 - Managing the Corporate Partnership Programme, an exclusive membership scheme for industrial partners, and ensure stakeholders remain satisfied with the provided services.
 - Responsible for the coordination of the Industrial Liaison Board annual meetings where industry stakeholders and academics meet to discuss future technologies and their effect on the teaching curriculum.
 
