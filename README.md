@@ -34,7 +34,7 @@ As a highly-motivated and results-oriented individual, I thrive in data-driven a
 
 ***
 ## Experience
-### Analyst Programmer | Mott MacDonald | Croydon
+### IT Developer | Mott MacDonald | Croydon
 #### 09/2018 - present
 
 ##### Recent Achievements:
