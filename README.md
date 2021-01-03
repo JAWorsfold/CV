@@ -11,10 +11,10 @@ As a highly-motivated and results-oriented individual, I thrive in data-driven a
 
 * **Back End Languages:**
   * `Java` (Spring, Apache Commons, JUnit, Maven, Gradle)
-  * `JavaScript` (Node.js)
+  * `Node.js`
   * `Python` (Pandas, NumPy, Scikit, Tensor Flow, Keras, Pytest)
 * **Front End Languages:**
-  * `JavaScript` (React, Angular)
+  * `JavaScript` (`React`, `Angular`)
   * `HTML5` and `CSS3`
 * **Database Management:**
   * RDBMS/ SQL (`Oracle`, `SQL Server`, `MySQL`, `PostgreSQL`)
@@ -37,7 +37,7 @@ As a highly-motivated and results-oriented individual, I thrive in data-driven a
 ***
 ## Experience
 ### Software Engineer | UK Home Office | Croydon/ London
-#### 09/2018 - present
+#### 09/2020 - present
 
 ##### Recent Achievements:
 - tbc
