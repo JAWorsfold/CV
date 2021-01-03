@@ -4,38 +4,47 @@
 
 ***
 ## Summary
-As a highly-motivated and results-oriented individual, I thrive in data-driven and creative environments. I’m passionate about delivering solutions to challenging problems and have been valued for my ability to grasp new techniques and technologies. I aspire to apply my experience and expertise in an area of societal importance.
+As a highly-motivated and results-oriented individual, I thrive in data-driven and creative environments. I’m passionate about delivering solutions to challenging problems and have been valued for my ability to grasp new techniques and technologies. I aspire to apply my 3+ years of IT experience and expertise in an area of societal importance.
 
 ***
 ## Skills and Software
 
 * **Back End Languages:**
   * `Java` (Spring, Apache Commons, JUnit, Maven, Gradle)
+  * `JavaScript` (Node.js)
   * `Python` (Pandas, NumPy, Scikit, Tensor Flow, Keras, Pytest)
-  * Scala and Kotlin (beginner)
 * **Front End Languages:**
-  * `JavaScript` (beginner Node, React, jQuery)
+  * `JavaScript` (React, Angular)
   * `HTML5` and `CSS3`
 * **Database Management:**
-  * RDBMS/ SQL (`Oracle`, `SQL Server`, mySQL)
-  * NoSQL (studied not used)
+  * RDBMS/ SQL (`Oracle`, `SQL Server`, `MySQL`, `PostgreSQL`)
+  * NoSQL (`MongoDB`, `Neo4j`)
   * Other (`JSON`, `XML`, `CSV`)
-* **Content Management:**
+* **Content & Deployment Management:**
+  * Continuous Integration (`CI`) & Continuous Development (`CD`)
   * Version Control (`Git`, BitBucket, CVS)
+  * Test Driven Development (`TDD`) & Behaviour Driven Development (`BDD`)
+  * `Docker` & `Kubernetes`
+  * Amazon Web Services (`AWS`)
   * Documentation (`Jira`, Confluence)
-  * Test Driven Development (`TDD`)
-  * Continuous Integration (`CI`)
 * **Other Skills:**
+  * Data Analysis, Modelling & Visualisation
   * `RESTful` Web Services
   * `Agile` Methodologies
-  * Critical Thinking
   * Collaboration and Teamwork
-  * Data Analysis
+  * Critical Thinking
 
 ***
 ## Experience
-### IT Developer | Mott MacDonald | Croydon
+### Software Engineer | UK Home Office | Croydon/ London
 #### 09/2018 - present
+
+##### Recent Achievements:
+- tbc
+
+___
+### IT Developer | Mott MacDonald | Croydon
+#### 09/2018 - 09/2020
 
 ##### Recent Achievements:
 - Designed and developed an integration program (`Java 8`, `TDD`, `Maven`) to integrate data from our Legacy Enterprise Resource Planning (ERP) to our new Cloud Based ERP system. Applying `SOLID principles` the program made use of dependency injection and common `Design Patterns` including Factory, Consumer, and Producer patterns. In the process, creating a bespoke RESTful API library for making requests to the new ERP.
