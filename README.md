@@ -12,11 +12,11 @@ As a highly-motivated and results-oriented individual, I thrive in data-driven a
 * **Back End Languages:**
   * `Java` (Spring, Apache Commons, JUnit, Maven, Gradle)
   * `Node.js`
-  * `Python` (Pandas, NumPy, Scikit, Tensor Flow, Keras, Pytest)
+  * `Python` (Pandas, NumPy, Scikit, Tensor Flow, Keras, Jupyter, Pytest, Unittest, Mocker)
 * **Front End Languages:**
   * `JavaScript` (`React`, `Angular`)
   * `HTML5` and `CSS3`
-* **Database Management:**
+* **Data Management:**
   * RDBMS/ SQL (`Oracle`, `SQL Server`, `MySQL`, `PostgreSQL`)
   * NoSQL (`MongoDB`, `Neo4j`)
   * Other (`JSON`, `XML`, `CSV`)
