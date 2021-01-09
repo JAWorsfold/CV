@@ -146,7 +146,7 @@ This intensive programme provided a solid grounding for a career in IT, impartin
 
 In addition to cutting-edge research, the course covered a variety of topics including `Object-Oriented` and `Functional Programming`, SOLID principles and Design Patterns, the `Software Development Life Cycle`, `Information Systems and Retrieval`, `Computer Architecture`, `Operating Systems`, and fundamentals from `binary` and `boolean algebra`, to `data structures and algorithms`.
 
-#### Projects
+#### Projects/ Thesis
 ##### Character-Level CNN for Hate Speech Detection with Intelligent Adversaries
 For my Masters thesis I trained a selection of Machine Learning models (`Linear Regression`, `Support Vector Machines`, `Naïve Bayes`) to detect hate speech, taking into account the presence of intelligent adversaries. The final implementation made use of a `Convolutional Neural Network` trained on both existing data sets and data which I extracted via the Twitter API. I was able to significantly improve upon existing benchmarks for the classification of hate speech that has been intentionally obfuscated. For the code and thesis report, I was awarded a Distinction.
 
