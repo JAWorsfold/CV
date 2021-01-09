@@ -1,4 +1,4 @@
-*Best viewed as a Markdown file (.md) or online @ github.com/JAWorsfold/CV.*
+*Best viewed as a Markdown file (.md) or online @ https://github.com/JAWorsfold/CV.*
 
 # *Curriculum Vitae*
 
@@ -42,16 +42,20 @@ As a highly-motivated and results-oriented individual, I thrive in data-driven a
 🏆 Winner: Best use of AI / ML (awarded by AWS)
 🏆 Winner: Best use of location (awarded by ESRI)
 
-Presentation: https://youtu.be/xDyxznaKjCQ?t=1913
-Code: https://github.com/HateDetector
+Presentation: https://youtu.be/xDyxznaKjCQ?t=1913 / Code: https://github.com/HateDetector
 
-Problem
+**Problem**
 To understand the networks and patterns of hate and how such content is spread.
 
 The dissemination of hate speech online and across social media continues to be a significant issue for which there is no quick-fix. Despite attempts by platforms such as Twitter and Facebook, and increasing pressure from Governments to solve the problem, there is yet to be a consistent way to stop the spread of hate. As it is inappropriate to stop the posts being created, and platforms take time to deal with reports, it is useful to understand the networks and patterns of hate and how such content is spread.
 
-Solution
+**Solution**
 Utilising state-of-the-art machine learning models, our project is able to scrape social media platforms and classify comments as either hate speech or not hate. The scraping is designed to focus on a specific real-world event - the US election as an example - and once classified the comments and their links are examinable and visualised as a graph. In doing so it is possible to build a case against prolific contributors of hate speech and/ or understand how it is spread across platforms and communities online.
+
+### Mini-Hackathon (Home Office UK): Generating Synthetic Data
+#### 11/2020
+
+- Jupyter notebook, numpy, pandas, research, 
 
 ***
 ## Experience
