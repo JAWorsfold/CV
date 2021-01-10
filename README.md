@@ -62,25 +62,28 @@ Utilising state-of-the-art machine learning models, our project is able to scrap
 ### Software Engineer | UK Home Office | Croydon/ London
 #### 09/2020 - present
 
-##### Software Development
+##### Front-end Development
 - tbc
 
+##### Back-end Development
+- tbc
+
+##### Data Management
+- tbc
 
 ___
 ### IT Developer | Mott MacDonald | Croydon
 #### 09/2018 - 09/2020
 
-##### Recent Achievements:
-- Designed and developed an integration program (`Java 8`, `TDD`, `Maven`) to integrate data from our Legacy Enterprise Resource Planning (ERP) to our new Cloud Based ERP system. Applying `SOLID principles` the program made use of dependency injection and common `Design Patterns` including Factory, Consumer, and Producer patterns. In the process, creating a bespoke RESTful API library for making requests to the new ERP.
-- Analysed and developed a prototype front-end procurement and purchasing integration between ServiceNow and our ERP. Written in `JavaScript`, the integration utilised RESTful APIs, complex workflows, business rules and smtp servers.
-- Led the first in-house release of a new extended version of our ERP system. Conducted the merging, deployment and testing (integration, system, helped with regression) of the new code base in our Staging and UAT environments.
-
-##### Applications Development:
-- Cloud based (`AWS`) back-end development of extensions - in `Java` with `XML` configurations - to our ERP (PaaS). Acting as the lead technical expert on extensions, despite only being with the company for a short time. Highlighting my ability to grasp new technologies.
+##### Corporate Applications Development:
+- Designed and developed a program (`Java 8`, `TDD`, `Maven`) to integrate data from our Legacy Enterprise Resource Planning (ERP) to our new Cloud Based ERP system. Applying `SOLID principles` the program made use of `Dependency Injection` and common `Design Patterns` including Factory, Consumer, and Producer patterns. In the process, creating a bespoke RESTful API library for making requests to the new ERP.
+- Analysed and developed a prototype procurement and purchasing integration between ServiceNow and our ERP. Written in `JavaScript`, the integration utilised RESTful APIs, complex workflows, business rules and SMTP servers.
+- Cloud based back-end development of extensions - in `Java` with `XML` configurations - to our ERP (PaaS). Acting as the lead technical expert on extensions, despite only being with the company for a short time. Highlighting my ability to grasp new technologies.
 - Designing, developing, and deploying bespoke integrations with our ERP. Utilising Java (8 and above) and recent improvements in `Object Oriented` and `Functional` Programming such as: `Streams`, `Lambdas`, and `Monads`.
 - Developing electronic forms in JavaScript, Java, and `PL/SQL` with a focus on UI and UX.
 
 ##### Software Development Life Cycle:
+- Led the first in-house release of a new extended version of our ERP system. Conducted the merging, deployment and testing (integration, system, helped with regression) of the new code base in our Staging and UAT environments.
 - Participated in `Agile` development, mainly `Scrum` with elements of `Kanban`, frequently deputising for the Scrum master during Stand-ups and Sprint Retrospectives.
 - Worked closely with our Operations team to support the business in the day-to-day use of our systems. Often taking calls directly with users to gather user stories and provide technical advice.
 - Analysed Product Backlog items in order to effectively estimate – via `planning poker` – the effort/ time to develop. In addition to undertaking technical feasibility analysis of more complex items.
@@ -90,56 +93,48 @@ ___
 ### Web and Communications Officer | Imperial College London, Department of Computing | South Kensington
 #### 01/2017 - 08/2018
 
-##### Web management, digital engagement and communications
-- Supporting the development and maintenance of `web-based computer systems`.
-- Responsible for maintaining and producing departmental `webpages`.
-- Responsible for the creation of interesting and engaging news stories based on departmental achievements, which reach a wide audience of academics, students and the general public.
+##### Web Management, Digital Engagement, and Communications
+- Supporting the development and maintenance of web-based computer systems and departmental webpages.
+- Responsible for the creation of interesting and engaging news stories based on departmental achievements, reaching a wide audience of academics, students, and the general public.
 - Communicating with departments across the university to support them during significant dates throughout the year, such as arranging materials for the Faculty of Engineering’s ‘Women in Engineering’ week.
 - Responsible for managing the department’s official Twitter account.
 
-##### Stakeholder management and industry relations:
-- Responsible for maintaining relations between the Department of Computing and `industry stakeholders`, the first point of call for all industrial liaison activities.
-- Managing the Corporate Partnership Programme, an exclusive membership scheme for industrial partners, and ensure stakeholders remain satisfied with the provided services.
+##### Stakeholder Management and Industry Rrelations:
+- Responsible for maintaining relations between the Department of Computing and `industry stakeholders`. Acting as the first point of call for all industrial liaison activities.
+- Managing the Corporate Partnership Programme, an exclusive membership scheme for industrial partners, and ensuring stakeholders remain satisfied with the provided services.
 - Responsible for the coordination of the Industrial Liaison Board annual meetings where industry stakeholders and academics meet to discuss future technologies and their effect on the teaching curriculum.
 
 ___
 ### Recruitment and Events Manager | Royal Holloway, University of London | Egham
 #### 04/2015 - 12/2016
 
-##### Project management and team leadership:
+##### Project Management and Team Leadership:
 - Responsible for the `logistical and operational management` of large scale university recruitment events. These include: four annual large scale Open Days, consisting of over 2,000 visitors, and 10 Applicant Visit Days, consisting of approx. 1,000 visitors.
 - Responsible for the budgets of up to £200,000 for the university’s large-scale flagship events.
-- Accountable for coordinating all aspects of the Student Ambassador Scheme (consisting of over 250 casual staff), including their `recruitment`, training and delegation for recruitment events.
+- Accountable for coordinating all aspects of the Student Ambassador Scheme (consisting of over 250 casual staff), including their `recruitment`, training, and delegation for recruitment events.
 - `Line-management` of two Recruitment and Events Officers and a Recruitment and Events Administrator.
 
-##### Stakeholder management, networking and communication:
-- Cross-departmental collaboration and cooperation: working closely with internal professional services, academic departments, and external stakeholders to receive up to date and relevant data to plan the vision, scope and style of events. This required both excellent negotiation and diplomacy.
-- Responsible for creating market-specific, audience and `data-driven` content for platforms and collateral related to events including: webpages, email campaigns, mobile applications, video and print materials.
-- Representing and promoting Royal Holloway both on and off-campus by organising, delivering and evaluating recruitment events, which increased the number of applications and enrolments from students.
+##### Stakeholder Management, Networking, and Communication:
+- Cross-departmental collaboration and co-operation, working closely with internal professional services, academic departments, and external stakeholders to receive up to date and relevant data to plan the vision, scope, and style of events. This required both excellent negotiation and diplomacy.
+- Responsible for creating market-specific content and collateral for platforms related to events, including webpages, email campaigns, mobile applications, video, and print materials.
+- Representing and promoting Royal Holloway both on and off-campus by organising, delivering, and evaluating recruitment events.
 
-##### Evaluation, analysis and research:
+##### Evaluation, Analysis, and Research:
 - Working closely with the department’s Assistant Director to ensure appropriate metrics and performance criteria are in place for all on-campus events, leading the evaluation of these whilst developing and championing methods of evaluation and feedback.
-- Analysing internal, regional and national `data and intelligence` to inform recommendations on the programme of on-campus recruitment events.
+- Analysing internal, regional, and national `data and intelligence` to inform recommendations on the programme of on-campus recruitment events.
 - Providing expertise in event management and disseminating market intelligence and market trends to academic departments and professional services, remaining aware of competitor activity through targeted observations, professional networks and reports.
 
 ___
 ### Recruitment and Events Officer | Royal Holloway, University of London
 #### 02/2014 - 04/2015
-- Maintaining and contributing to the development of specific webpages and `online initiatives` relating to on-campus events and providing input into engaging follow-up campaigns for events.
-- Developing and coordinating wider initiatives to promote Royal Holloway to potential students including championing digital initiatives for the current student generation.
-- Taking responsibility for logistical arrangements relating to events, including room and hospitality bookings, registration processes, technical support and liaison with suppliers and service providers.
-- Coordinating all aspects of the set-up of events, including the coordination of signage, relevant promotional collateral and equipment and liaising with professional services across the College.
-- Managing bookings for on-campus recruitment and conversion events (using Eventbrite) and making recommendations for alterations to events and programmes.
-- Coordinating the selection of ambassadors, including the development of application forms (online), liaison with internal staff on promotion, and evaluating its success (using Survey Monkey).
-- Collating feedback on student recruitment events and making recommendations to key stakeholders.
-- Responsibility for the development of presentations and workshops, delivered to schools and colleges both on and off-campus, and attending education exhibitions within the UK.
+- See above for similar responsibilities.
 
 ___
 ### Graduate Intern Widening Participation Assistant | Royal Holloway, University of London
 #### 09/2013 - 02/2014
-- Responsible for regular updates being made to the schools and colleges webpages including timely content creation and authorisation for the events and news ‘modules’.
+- Responsible for regular updates to the schools and colleges webpages including timely content creation and authorisation for the events and news ‘modules’.
 - Responsible for the planning and delivery of three projects – School Visits, Student Shadowing, and Tutoring & Mentoring - requiring detailed project briefs and clear objectives in line with best practice.
-- Developing, maintaining and managing effective relationships with schools, colleges and other stakeholders through visits, presentations and multi-channel communication.
+- Developing, maintaining, and managing effective relationships with schools, colleges and other stakeholders through visits, presentations, and multi-channel communication.
 - Supporting and contributing to WP and admissions activity in line with the strategic objectives of the university, the requirements of fair access and fair admissions, and the Office for Fair Access (OFFA).
 
 ***
