@@ -28,6 +28,7 @@ As a highly-motivated and results-oriented individual, I thrive in data-driven a
   * Amazon Web Services (`AWS`)
   * Documentation (`Jira`, Confluence)
 * **Other Skills:**
+  * Operating Systems (`Linux`, `Windows`, `MacOS`)
   * Data Analysis, Modelling & Visualisation
   * `RESTful` Web Services
   * `Agile` Methodologies
@@ -63,13 +64,23 @@ Utilising state-of-the-art machine learning models, our project is able to scrap
 #### 09/2020 - present
 
 ##### Front-end Development
-- tbc
+- react -> header, excel download, business product
+- release notes -> HTML, CSS, Angular
+- Access needs
+- working with designers and users
+- updating unit tests/ snapshots
+- peer reviews
 
 ##### Back-end Development
-- tbc
+- Bug fixes API mongodb 
+- bespoke script to simplify process of updating kubernetes secrets for all environments (written in Python)
+- Adding infrastructure for new data sources to be included in the product (API, data stories, mock data)
+- peer reviews merge requests gitlab and github
 
-##### Data Management
-- tbc
+##### Data Science and Analysis
+- working and advising closely with data scientists -> writing bespoke utilis package -> neo4j
+- Writing bespoke scripts to capture usage statistics in mongodb, json, csv, anaylsis, quarters
+- 
 
 ___
 ### IT Developer | Mott MacDonald | Croydon
@@ -90,7 +101,7 @@ ___
 - Engaged in all forms of testing including `unit testing`, `integration testing`, `system testing`, `regression testing`, `user acceptance testing` and `smoke testing`, as well as regularly `peer reviewing` the work of other developers.
 
 ___
-### Web and Communications Officer | Imperial College London, Department of Computing | South Kensington
+### Web and Communications Officer | Imperial College London, Department of Computing
 #### 01/2017 - 08/2018
 
 ##### Web Management, Digital Engagement, and Communications
@@ -105,7 +116,7 @@ ___
 - Responsible for the coordination of the Industrial Liaison Board annual meetings where industry stakeholders and academics meet to discuss future technologies and their effect on the teaching curriculum.
 
 ___
-### Recruitment and Events Manager | Royal Holloway, University of London | Egham
+### Recruitment and Events Manager | Royal Holloway, University of London
 #### 04/2015 - 12/2016
 
 ##### Project Management and Team Leadership:
