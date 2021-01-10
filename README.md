@@ -11,8 +11,8 @@ As a highly-motivated and results-oriented individual, I thrive in data-driven a
 
 * **Back End Languages:**
   * `Java` (Spring, Apache Commons, JUnit, Maven, Gradle)
-  * `Node.js`
   * `Python` (Pandas, NumPy, Scikit, Tensor Flow, Keras, Jupyter, Pytest, Unittest, Mocker)
+  * `Node.js`
 * **Front End Languages:**
   * `JavaScript` (`React`, `Angular`)
   * `HTML5` and `CSS3`
@@ -40,6 +40,7 @@ As a highly-motivated and results-oriented individual, I thrive in data-driven a
 #### 10/2020 - present
 
 🏆 Winner: Best use of AI / ML (awarded by AWS)
+
 🏆 Winner: Best use of location (awarded by ESRI)
 
 Presentation: https://youtu.be/xDyxznaKjCQ?t=1913 / Code: https://github.com/HateDetector
