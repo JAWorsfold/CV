@@ -108,8 +108,8 @@ ___
 - Responsible for the coordination of the Industrial Liaison Board annual meetings where industry stakeholders and academics meet to discuss future technologies and their effect on the teaching curriculum.
 
 ___
-### Recruitment and Events Manager | Royal Holloway, University of London
-#### 04/2015 - 12/2016
+### Recruitment and Events Manager (and previous roles) | Royal Holloway, University of London
+#### 09/2013 - 12/2016
 
 ##### Project Management and Team Leadership:
 - Responsible for the `logistical and operational management` of large scale university recruitment events. These include: four annual large scale Open Days, consisting of over 2,000 visitors, and 10 Applicant Visit Days, consisting of approx. 1,000 visitors.
@@ -126,19 +126,8 @@ ___
 - Working closely with the department’s Assistant Director to ensure appropriate metrics and performance criteria are in place for all on-campus events, leading the evaluation of these whilst developing and championing methods of evaluation and feedback.
 - Analysing internal, regional, and national `data and intelligence` to inform recommendations on the programme of on-campus recruitment events.
 - Providing expertise in event management and disseminating market intelligence and market trends to academic departments and professional services, remaining aware of competitor activity through targeted observations, professional networks and reports.
-
-___
-### Recruitment and Events Officer | Royal Holloway, University of London
-#### 02/2014 - 04/2015
-- See above for similar responsibilities.
-
-___
-### Graduate Intern Widening Participation Assistant | Royal Holloway, University of London
-#### 09/2013 - 02/2014
-- Responsible for regular updates to the schools and colleges webpages including timely content creation and authorisation for the events and news ‘modules’.
-- Responsible for the planning and delivery of three projects – School Visits, Student Shadowing, and Tutoring & Mentoring - requiring detailed project briefs and clear objectives in line with best practice.
-- Developing, maintaining, and managing effective relationships with schools, colleges and other stakeholders through visits, presentations, and multi-channel communication.
 - Supporting and contributing to WP and admissions activity in line with the strategic objectives of the university, the requirements of fair access and fair admissions, and the Office for Fair Access (OFFA).
+
 
 ***
 ## Education
@@ -146,14 +135,9 @@ ___
 #### 09/2017 - 09/2019
 This intensive programme provided a solid grounding for a career in IT, imparting an in-depth knowledge of computing, software development, and programming. I investigated current areas of research from `Cloud Computing` and `Big Data`, to `Machine Learning` and `Natural Language Processing`.
 
-In addition to cutting-edge research, the course covered a variety of topics including `Object-Oriented` and `Functional Programming`, SOLID principles and Design Patterns, the `Software Development Life Cycle`, `Information Systems and Retrieval`, `Computer Architecture`, `Operating Systems`, and fundamentals from `binary` and `boolean algebra`, to `data structures and algorithms`.
+In addition to cutting-edge research, the course covered a variety of topics including `Object-Oriented` and `Functional Programming`, `SOLID principles` and `Design Patterns`, the `Software Development Life Cycle`, `Information Systems and Retrieval`, `Computer Architecture`, `Operating Systems`, and fundamentals from `binary` and `boolean algebra`, to `data structures and algorithms`.
 
-#### Projects/ Thesis
-##### Character-Level CNN for Hate Speech Detection with Intelligent Adversaries
-For my Masters thesis I trained a selection of Machine Learning models (`Linear Regression`, `Support Vector Machines`, `Naïve Bayes`) to detect hate speech, taking into account the presence of intelligent adversaries. The final implementation made use of a `Convolutional Neural Network` trained on both existing data sets and data which I extracted via the Twitter API. I was able to significantly improve upon existing benchmarks for the classification of hate speech that has been intentionally obfuscated. For the code and thesis report, I was awarded a Distinction.
-
-##### Simple Machine Language (SML)
-Following a `TDD` approach, I was tasked with developing an Interpreter in Java for a predefined SML. The Interpreter had to translate a set of simple instructions, execute the instructions and print the final value of any used registers. Practising SOLID principles, I used: `Reflection`, `Dependency Injection`, and `Design Patterns` – Factory and Singleton in this case – to implement the final Interpreter.
+**Projects**: available @ https://github.com/JAWorsfold
 
 ___
 ### Royal Holloway, University of London | BA History | Upper Second-Class Honours
