@@ -11,7 +11,7 @@ As a highly-motivated and results-oriented individual, I thrive in data-driven a
 
 * **Back End Languages:**
   * `Java` (Spring, Apache Commons, JUnit, Maven, Gradle)
-  * `Python` (Pandas, NumPy, Scikit, Tensor Flow, Keras, Jupyter, Pytest, Unittest, Mocker)
+  * `Python` (Pandas, NumPy, Scikit, TensorFlow, Keras, Jupyter, Pytest, Unittest, Mocker)
   * `Node.js`
 * **Front End Languages:**
   * `JavaScript` (`React`, `Angular`)
@@ -25,11 +25,11 @@ As a highly-motivated and results-oriented individual, I thrive in data-driven a
   * Version Control (`Git`, BitBucket, CVS)
   * Test Driven Development (`TDD`) & Behaviour Driven Development (`BDD`)
   * `Docker` & `Kubernetes`
-  * Amazon Web Services (`AWS`)
+  * `AWS`: Amazon Web Services (beginner)
   * Documentation (`Jira`, Confluence)
 * **Other Skills:**
   * Operating Systems (`Linux`, `Windows`, `MacOS`)
-  * Data Analysis, Modelling & Visualisation
+  * Data Analysis, Modelling, and Visualisation
   * `RESTful` Web Services
   * `Agile` Methodologies
   * Collaboration and Teamwork
@@ -38,25 +38,21 @@ As a highly-motivated and results-oriented individual, I thrive in data-driven a
 ***
 ## Recent Achievements
 ### Hack Hate 2020: Hate Detector
-#### 10/2020 - present
+#### 10/2020
 
 🏆 Winner: Best use of AI / ML (awarded by AWS)  
 🏆 Winner: Best use of location (awarded by ESRI)
 
-Presentation: https://youtu.be/xDyxznaKjCQ?t=1913 / Code: https://github.com/HateDetector
+**Presentation**: https://youtu.be/xDyxznaKjCQ?t=1913 | **Code**: https://github.com/HateDetector
 
-**Problem**  
-To understand the networks and patterns of hate and how such content is spread.
+Utilising my in-depth knowledge of `Python` and master's thesis research, I spearheaded a team of developers and researchers to engineer a tool to detect and visualise networks of hate speech, in relation to real-world events. As the team lead I contributed the majority of the code for both the social media `scraping` and hate speech `text classification` using `machine learning` models. In total I scraped 18.5 million tweets - related to the 2020 US Election - and classified them as either hate or non-hate. To make the classification I used a consensus of three models trained using the following techniques/ algorithms: `Logistic Regression`, `Support Vector Machines`, and `Convolutional Neural Networks`.
 
-The dissemination of hate speech online and across social media continues to be a significant issue for which there is no quick-fix. Despite attempts by platforms such as Twitter and Facebook, and increasing pressure from Governments to solve the problem, there is yet to be a consistent way to stop the spread of hate. As it is inappropriate to stop the posts being created, and platforms take time to deal with reports, it is useful to understand the networks and patterns of hate and how such content is spread.
-
-**Solution**  
-Utilising state-of-the-art machine learning models, our project is able to scrape social media platforms and classify comments as either hate speech or not hate. The scraping is designed to focus on a specific real-world event - the US election as an example - and once classified the comments and their links are examinable and visualised as a graph. In doing so it is possible to build a case against prolific contributors of hate speech and/ or understand how it is spread across platforms and communities online.
+To explore and analyse the data I constructed a graph data model - CLUE: Comment, Link, User, Event - that we'd follow when loading that data into `Neo4j` (a common graph database). Having loaded the content into this model it was possible to explore trends within the data. Using `Ne4j Bloom` it was also possible to visualise these trends and analyse them in an interactive way. For example, it was possible to visually map hate content to common hashtags and shared websites. Additionally, as a team we analysed the amount of hate content created over time and across US states (where location data was available).
 
 ### Mini-Hackathon (Home Office UK): Generating Synthetic Data
 #### 11/2020
 
-- Jupyter notebook, numpy, pandas, research, 
+During a three day hackathon I was tasked with exploring the possibility of generating synthetic data, based on real production data, to assist our Data Scientists and improve testing in non-production environments. As security and privacy was of the utmost importance, it was critical that any generated data be useful but not traceable back to real data. Using `Python`, `Jupyter` notebooks, and common scientific libraries (`Pandas`, `Numpy`), I showcased how this can be done. First by anonymising the production data and then feeding this anonymised data into an open source library which utilised `Naive Bayes` to produce synthetic data that correlates with production data in key metrics. This has now been used by the team to create large amounts of useful mock data for testing and training purposes.
 
 ***
 ## Experience
@@ -64,23 +60,19 @@ Utilising state-of-the-art machine learning models, our project is able to scrap
 #### 09/2020 - present
 
 ##### Front-end Development
-- react -> header, excel download, business product
-- release notes -> HTML, CSS, Angular
-- Access needs
-- working with designers and users
-- updating unit tests/ snapshots
-- peer reviews
+- Developing and maintaining internal web applications in `AngularJS` and `ReactJS` with a focus on `TDD` and `BDD`. Currently in the process of migrating code from AngularJS to ReactJs.
+- Working closely with designers and user researchers to implement wireframes, meet user needs, and ensure the best possible User Experience and User Interface.
+- Writing clear and concise release notes for updates to the product and collaborating with the DevOps team to ensure the release notes are timed correctly alongside our pipeline and deployment time frame.
 
 ##### Back-end Development
-- Bug fixes API mongodb 
-- bespoke script to simplify process of updating kubernetes secrets for all environments (written in Python)
-- Adding infrastructure for new data sources to be included in the product (API, data stories, mock data)
-- peer reviews merge requests gitlab and github
+- Implementing and maintaining a REST API in `Node.js` with back-end connections to NoSQL databases including `MongoDB`.
+- Working with multiple applications and application logic in `Docker` containers and managing them with `Kubernetes`, as well as experience using `Drone` for Continuous Integration.
+- Adding the infrastructure for new data sources to be loaded to the product, including work on the API, data stories, and creating mock data for testing.
+- Creating bespoke scripts to improve the efficiency and robustness of the product, for example, a `Python` script to update specified `Kubernetes` secrets when new data sources are added.
 
 ##### Data Science and Analysis
-- working and advising closely with data scientists -> writing bespoke utilis package -> neo4j
-- Writing bespoke scripts to capture usage statistics in mongodb, json, csv, anaylsis, quarters
-- 
+- Advising and collaborating with Data Scientists on their code, for example, working on a `Python` package to contain any commonly used code across repositories. For example, a `Neo4j` wrapper class to make connecting and reading data more abstract and user friendly.
+- Working closely with the Product Manager to capture useful usage statistics on the product. For example, by re-writing MongoDB queries and utilising JavaScript to do complex queries to gain further insight and present data more effectively.
 
 ___
 ### IT Developer | Mott MacDonald | Croydon
@@ -110,7 +102,7 @@ ___
 - Communicating with departments across the university to support them during significant dates throughout the year, such as arranging materials for the Faculty of Engineering’s ‘Women in Engineering’ week.
 - Responsible for managing the department’s official Twitter account.
 
-##### Stakeholder Management and Industry Rrelations:
+##### Stakeholder Management and Industry Relations:
 - Responsible for maintaining relations between the Department of Computing and `industry stakeholders`. Acting as the first point of call for all industrial liaison activities.
 - Managing the Corporate Partnership Programme, an exclusive membership scheme for industrial partners, and ensuring stakeholders remain satisfied with the provided services.
 - Responsible for the coordination of the Industrial Liaison Board annual meetings where industry stakeholders and academics meet to discuss future technologies and their effect on the teaching curriculum.
@@ -162,9 +154,6 @@ For my Masters thesis I trained a selection of Machine Learning models (`Linear 
 
 ##### Simple Machine Language (SML)
 Following a `TDD` approach, I was tasked with developing an Interpreter in Java for a predefined SML. The Interpreter had to translate a set of simple instructions, execute the instructions and print the final value of any used registers. Practising SOLID principles, I used: `Reflection`, `Dependency Injection`, and `Design Patterns` – Factory and Singleton in this case – to implement the final Interpreter.
-
-##### Philip Hammond and the Temple of Gloom
-Having been provided with an extensive Java program I had to interpret the existing code base and extend it with a program capable of completing a given simulation. The simulation consisted of an explorer, Philip, finding an Orb in a maze, followed by escaping with as much treasure as possible. Utilising common algorithms like `Dijkstra’s Shortest Path`, I achieved a respectable score and in doing so learnt to work with Java `concurrency` and a Java `GUI` application.
 
 ___
 ### Royal Holloway, University of London | BA History | Upper Second-Class Honours
