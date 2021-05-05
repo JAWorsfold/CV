@@ -49,11 +49,6 @@ Utilising my in-depth knowledge of `Python` and master's thesis research, I spea
 
 To explore and analyse the data I constructed a graph data model - CLUE: Comment, Link, User, Event - that we'd follow when loading that data into `Neo4j` (a common graph database). Having loaded the content into this model it was possible to explore trends within the data. Using `Ne4j Bloom` it was also possible to visualise these trends and analyse them in an interactive way. For example, it was possible to visually map hate content to common hashtags and shared websites. Additionally, as a team we analysed the amount of hate content created over time and across US states (where location data was available).
 
-### Mini-Hackathon (Home Office UK): Generating Synthetic Data
-#### 11/2020
-
-During a three day hackathon I was tasked with exploring the possibility of generating synthetic data, based on real production data, to assist our Data Scientists and improve testing in non-production environments. As security and privacy was of the utmost importance, it was critical that any generated data be useful but not traceable back to real data. Using `Python`, `Jupyter` notebooks, and common scientific libraries (`Pandas`, `Numpy`), I showcased how this can be done. First by anonymising the production data and then feeding this anonymised data into an open source library which utilised `Naive Bayes` to produce synthetic data that correlates with production data in key metrics. This has now been used by the team to create large amounts of useful mock data for testing and training purposes.
-
 ***
 ## Experience
 ### Software Engineer | UK Home Office | Croydon/ London
