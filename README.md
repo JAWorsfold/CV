@@ -52,7 +52,7 @@ To explore and analyse the data I constructed a graph data model - CLUE: Comment
 
 ***
 ## Experience
-### Consultant Full-Stack Engineer | Inifnity Works | Part of Accenture | London
+### Consultant Full-Stack Engineer | Inifnity Works part of Accenture | London
 #### 10/2020 - present
 
 ___
