@@ -10,11 +10,11 @@ As a highly-motivated and results-oriented individual, I thrive in data-driven a
 ## Skills and Software
 
 * **Back End Languages:**
+  * `JavaScript` & `TypeScript` (`Node.js`, `NestJS`, `TypeORM`, `Jest`, `Cypress`, `yarn`)
   * `Java` (Spring, Apache Commons, JUnit, Maven, Gradle)
   * `Python` (Pandas, NumPy, Scikit, TensorFlow, Keras, Jupyter, Pytest, Unittest, Mocker)
-  * `Node.js`
 * **Front End Languages:**
-  * `JavaScript` (`React`, `Angular`)
+  * `JavaScript` & `TypeScript` (`React`, `Next.js`,  `Angular`)
   * `HTML5` and `CSS3`
 * **Data Management:**
   * RDBMS/ SQL (`Oracle`, `SQL Server`, `MySQL`, `PostgreSQL`)
@@ -51,8 +51,12 @@ To explore and analyse the data I constructed a graph data model - CLUE: Comment
 
 ***
 ## Experience
+### Consultant Full-Stack Developer | Inifnity Works | Part of Accenture | London
+#### 10/2020 - present
+
+___
 ### Software Engineer | UK Home Office | Croydon/ London
-#### 09/2020 - present
+#### 09/2020 - 10/2020
 
 ##### Front-end Development
 - Developing and maintaining internal web applications in `AngularJS` and `ReactJS` with a focus on `TDD` and `BDD`. Currently in the process of migrating code from AngularJS to ReactJs.
@@ -141,14 +145,6 @@ Studying history improved the depth and range of my transferable skills and deve
 - critical reasoning and analytical skills, including the capacity for creative problem solving
 - communication in a structured, clear and persuasive manner, both orally and in writing
 - self-reliance when working without direct supervision and managing time & priorities effectively.
-
-___
-### The Sixth Form College, Colchester | A-Levels, AS-Levels | Law, History, Business, Politics, and Mathematics
-#### 09/2007 - 08/2009
-
-___
-### Philip Morant School,  Colchester | 11 GCSEs A*-C | including Mathematics (A), English Literature (A) and English Language (A)
-#### 09/2002 - 08/2007
 
 ***
 ## Hobbies and Interest
