@@ -25,7 +25,8 @@ As a highly-motivated and results-oriented individual, I thrive in data-driven a
   * Version Control (`Git`, BitBucket, CVS)
   * Test Driven Development (`TDD`) & Behaviour Driven Development (`BDD`)
   * `Docker` & `Kubernetes`
-  * `AWS`: Amazon Web Services (beginner)
+  * `AWS`: Amazon Web Services
+  * `IaC`; `Terraform` & `CDK`
   * Documentation (`Jira`, Confluence)
 * **Other Skills:**
   * Operating Systems (`Linux`, `Windows`, `MacOS`)
@@ -51,7 +52,7 @@ To explore and analyse the data I constructed a graph data model - CLUE: Comment
 
 ***
 ## Experience
-### Consultant Full-Stack Developer | Inifnity Works | Part of Accenture | London
+### Consultant Full-Stack Engineer | Inifnity Works | Part of Accenture | London
 #### 10/2020 - present
 
 ___
