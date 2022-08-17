@@ -96,6 +96,13 @@ ___
 - Analysed Product Backlog items in order to effectively estimate – via `planning poker` – the effort/ time to develop. In addition to undertaking technical feasibility analysis of more complex items.
 - Engaged in all forms of testing including `unit testing`, `integration testing`, `system testing`, `regression testing`, `user acceptance testing` and `smoke testing`, as well as regularly `peer reviewing` the work of other developers.
 
+___
+### Web and Communications Officer | Imperial College London, Department of Computing
+#### 01/2017 - 08/2018
+___
+### Recruitment and Events Manager (and previous roles) | Royal Holloway, University of London
+#### 09/2013 - 12/2016
+
 ***
 ## Education
 ### Birkbeck, University of London | MSc Computer Science | Distinction
