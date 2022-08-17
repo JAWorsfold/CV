@@ -26,7 +26,7 @@ As a highly-motivated and results-oriented individual, I thrive in data-driven a
   * Test Driven Development (`TDD`) & Behaviour Driven Development (`BDD`)
   * `Docker` & `Kubernetes`
   * `AWS`: Amazon Web Services
-  * Infrastructure as Code `IaC`; `Terraform` & `CDK`
+  * Infrastructure as Code: `Terraform` & `CDK`
   * Documentation (`Jira`, Confluence)
 * **Other Skills:**
   * Operating Systems (`MacOS`, `Linux`, `Windows`)
