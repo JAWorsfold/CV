@@ -26,10 +26,10 @@ As a highly-motivated and results-oriented individual, I thrive in data-driven a
   * Test Driven Development (`TDD`) & Behaviour Driven Development (`BDD`)
   * `Docker` & `Kubernetes`
   * `AWS`: Amazon Web Services
-  * `IaC`; `Terraform` & `CDK`
+  * Infrastructure as Code `IaC`; `Terraform` & `CDK`
   * Documentation (`Jira`, Confluence)
 * **Other Skills:**
-  * Operating Systems (`Linux`, `Windows`, `MacOS`)
+  * Operating Systems (`MacOS`, `Linux`, `Windows`)
   * Data Analysis, Modelling, and Visualisation
   * `RESTful` Web Services
   * `Agile` Methodologies
@@ -52,12 +52,16 @@ To explore and analyse the data I constructed a graph data model - CLUE: Comment
 
 ***
 ## Experience
+### Senior Consultant Full-Stack Engineer | Infinity Works part of Accenture | London
+#### 05/2022 - present
+
+___
 ### Consultant Full-Stack Engineer | Infinity Works part of Accenture | London
-#### 10/2020 - present
+#### 10/2021 - 05/2022
 
 ___
 ### Software Engineer | UK Home Office | Croydon/ London
-#### 09/2020 - 10/2020
+#### 09/2020 - 10/2021
 
 ##### Front-end Development
 - Developing and maintaining internal web applications in `AngularJS` and `ReactJS` with a focus on `TDD` and `BDD`. Currently in the process of migrating code from AngularJS to ReactJs.
@@ -92,43 +96,6 @@ ___
 - Analysed Product Backlog items in order to effectively estimate – via `planning poker` – the effort/ time to develop. In addition to undertaking technical feasibility analysis of more complex items.
 - Engaged in all forms of testing including `unit testing`, `integration testing`, `system testing`, `regression testing`, `user acceptance testing` and `smoke testing`, as well as regularly `peer reviewing` the work of other developers.
 
-___
-### Web and Communications Officer | Imperial College London, Department of Computing
-#### 01/2017 - 08/2018
-
-##### Web Management, Digital Engagement, and Communications
-- Supporting the development and maintenance of web-based computer systems and departmental webpages.
-- Responsible for the creation of interesting and engaging news stories based on departmental achievements, reaching a wide audience of academics, students, and the general public.
-- Communicating with departments across the university to support them during significant dates throughout the year, such as arranging materials for the Faculty of Engineering’s ‘Women in Engineering’ week.
-- Responsible for managing the department’s official Twitter account.
-
-##### Stakeholder Management and Industry Relations:
-- Responsible for maintaining relations between the Department of Computing and `industry stakeholders`. Acting as the first point of call for all industrial liaison activities.
-- Managing the Corporate Partnership Programme, an exclusive membership scheme for industrial partners, and ensuring stakeholders remain satisfied with the provided services.
-- Responsible for the coordination of the Industrial Liaison Board annual meetings where industry stakeholders and academics meet to discuss future technologies and their effect on the teaching curriculum.
-
-___
-### Recruitment and Events Manager (and previous roles) | Royal Holloway, University of London
-#### 09/2013 - 12/2016
-
-##### Project Management and Team Leadership:
-- Responsible for the `logistical and operational management` of large scale university recruitment events. These include: four annual large scale Open Days, consisting of over 2,000 visitors, and 10 Applicant Visit Days, consisting of approx. 1,000 visitors.
-- Responsible for the budgets of up to £200,000 for the university’s large-scale flagship events.
-- Accountable for coordinating all aspects of the Student Ambassador Scheme (consisting of over 250 casual staff), including their `recruitment`, training, and delegation for recruitment events.
-- `Line-management` of two Recruitment and Events Officers and a Recruitment and Events Administrator.
-
-##### Stakeholder Management, Networking, and Communication:
-- Cross-departmental collaboration and co-operation, working closely with internal professional services, academic departments, and external stakeholders to receive up to date and relevant data to plan the vision, scope, and style of events. This required both excellent negotiation and diplomacy.
-- Responsible for creating market-specific content and collateral for platforms related to events, including webpages, email campaigns, mobile applications, video, and print materials.
-- Representing and promoting Royal Holloway both on and off-campus by organising, delivering, and evaluating recruitment events.
-
-##### Evaluation, Analysis, and Research:
-- Working closely with the department’s Assistant Director to ensure appropriate metrics and performance criteria are in place for all on-campus events, leading the evaluation of these whilst developing and championing methods of evaluation and feedback.
-- Analysing internal, regional, and national `data and intelligence` to inform recommendations on the programme of on-campus recruitment events.
-- Providing expertise in event management and disseminating market intelligence and market trends to academic departments and professional services, remaining aware of competitor activity through targeted observations, professional networks and reports.
-- Supporting and contributing to WP and admissions activity in line with the strategic objectives of the university, the requirements of fair access and fair admissions, and the Office for Fair Access (OFFA).
-
-
 ***
 ## Education
 ### Birkbeck, University of London | MSc Computer Science | Distinction
@@ -154,7 +121,7 @@ Studying history improved the depth and range of my transferable skills and deve
 - Science and technology
 - Nature and the environment
 - Scuba diving
-- Flying trapeze
+- Flying trapeze and gymnastics
 - Cycling
 
 ***
