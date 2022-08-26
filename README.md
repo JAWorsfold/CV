@@ -9,32 +9,27 @@ As a highly-motivated and results-oriented individual, I thrive in data-driven a
 ***
 ## Skills and Software
 
-* **Back End Languages:**
+* **Back End:**
   * `JavaScript` & `TypeScript` (`Node.js`, `NestJS`, `TypeORM`, `Jest`, `Cypress`, `yarn`)
   * `Java` (Spring, Apache Commons, JUnit, Maven, Gradle)
   * `Python` (Pandas, NumPy, Scikit, TensorFlow, Keras, Jupyter, Pytest, Unittest, Mocker)
-* **Front End Languages:**
+* **Front End:**
   * `JavaScript` & `TypeScript` (`React`, `Next.js`,  `Angular`)
   * `HTML5` and `CSS3`
-* **Data Management:**
+* **Database:**
   * RDBMS/ SQL (`Oracle`, `SQL Server`, `MySQL`, `PostgreSQL`)
-  * NoSQL (`MongoDB`, `Neo4j`)
-  * Other (`JSON`, `XML`, `CSV`)
-* **Content & Deployment Management:**
-  * Continuous Integration (`CI`) & Continuous Development (`CD`)
-  * Version Control (`Git`, BitBucket, CVS)
-  * Test Driven Development (`TDD`) & Behaviour Driven Development (`BDD`)
-  * `Docker` & `Kubernetes`
-  * `AWS`: Amazon Web Services
+  * NoSQL (`MongoDB`, `Neo4j`, `JSON`)
+* **Architecture and Cloud:**
   * Infrastructure as Code: `Terraform` & `CDK`
-  * Documentation (`Jira`, Confluence)
+  * `CI/CD`: Git, Github Workflows, DroneCI, `TDD`
+  * `Docker` & `Kubernetes`
+  * `AWS`: ECS, RDS, S3, Lambda, Cloudwatch
+  * `RESTful` Web Services
 * **Other Skills:**
   * Operating Systems (`MacOS`, `Linux`, `Windows`)
   * Data Analysis, Modelling, and Visualisation
-  * `RESTful` Web Services
   * `Agile` Methodologies
-  * Collaboration and Teamwork
-  * Critical Thinking
+  * Collaboration, Teamwork, Leadership, Mentoring, Critical Thinking
 
 ***
 ## Recent Achievements
@@ -46,9 +41,9 @@ As a highly-motivated and results-oriented individual, I thrive in data-driven a
 
 **Presentation**: https://youtu.be/xDyxznaKjCQ?t=1913 | **Code**: https://github.com/HateDetector
 
-Utilising my in-depth knowledge of `Python` and master's thesis research, I spearheaded a team of developers and researchers to engineer a tool to detect and visualise networks of hate speech, in relation to real-world events. As the team lead I contributed the majority of the code for both the social media `scraping` and hate speech `text classification` using `machine learning` models. In total I scraped 18.5 million tweets - related to the 2020 US Election - and classified them as either hate or non-hate. To make the classification I used a consensus of three models trained using the following techniques/ algorithms: `Logistic Regression`, `Support Vector Machines`, and `Convolutional Neural Networks`.
+Utilising my in-depth knowledge of `Python` and Master's thesis research, I spearheaded a team of engineers to develop a tool to detect and visualise networks of hate speech. As the team lead I contributed the majority of the code for both the social media `scraping` and `text classification` using `machine learning` models. In total I scraped 18.5 million tweets - related to the 2020 US Election - and classified them as either hate or non-hate. For the classification I used a consensus of three models trained using the following algorithms: `Logistic Regression`, `Support Vector Machines`, and `Convolutional Neural Networks`.
 
-To explore and analyse the data I constructed a graph data model - CLUE: Comment, Link, User, Event - that we'd follow when loading that data into `Neo4j` (a common graph database). Having loaded the content into this model it was possible to explore trends within the data. Using `Neo4j Bloom` it was also possible to visualise these trends and analyse them in an interactive way. For example, it was possible to visually map hate content to common hashtags and shared websites. Additionally, as a team we analysed the amount of hate content created over time and across US states (where location data was available).
+The data was loaded into a `Neo4j` graph database using a data model I had devised in order to explore patterns within the data. Using `Neo4j Bloom` it was also possible to visualise these trends and analyse them in an interactive way. For example, it was possible to visually map hate content to common hashtags and shared websites. Additionally, as a team we analysed the amount of hate content created over time and across US states (where location data was available).
 
 ***
 ## Experience
@@ -65,8 +60,8 @@ ___
 
 ##### Front-end Development
 - Developing and maintaining internal web applications in `AngularJS` and `ReactJS` with a focus on `TDD` and `BDD`. Currently in the process of migrating code from AngularJS to ReactJs.
-- Working closely with designers and user researchers to implement wireframes, meet user needs, and ensure the best possible User Experience and User Interface.
-- Writing clear and concise release notes for updates to the product and collaborating with the DevOps team to ensure the release notes are timed correctly alongside our pipeline and deployment time frame.
+- Working closely with designers and user researchers to implement wireframes and ensure the best possible user experience.
+- Writing clear and concise release notes for updates to the product and collaborating with the DevOps team to ensure the release notes are timed correctly alongside our pipeline for deployment.
 
 ##### Back-end Development
 - Implementing and maintaining a REST API in `Node.js` with back-end connections to NoSQL databases including `MongoDB`.
@@ -76,25 +71,18 @@ ___
 
 ##### Data Science and Analysis
 - Advising and collaborating with Data Scientists on their code, for example, working on a `Python` package to contain any commonly used code across repositories. For example, a `Neo4j` wrapper class to make connecting and reading data more abstract and user friendly.
-- Working closely with the Product Manager to capture useful usage statistics on the product. For example, by re-writing MongoDB queries and utilising JavaScript to do complex queries to gain further insight and present data more effectively.
+- Working closely with the Product Manager to capture useful usage statistics on the product, for example, by re-writing MongoDB queries and utilising JavaScript to do complex queries to gain further insight.
 
 ___
 ### IT Developer | Mott MacDonald | Croydon
 #### 09/2018 - 09/2020
 
 ##### Corporate Applications Development:
-- Designed and developed a program (`Java 8`, `TDD`, `Maven`) to integrate data from our Legacy Enterprise Resource Planning (ERP) to our new Cloud Based ERP system. Applying `SOLID principles` the program made use of `Dependency Injection` and common `Design Patterns` including Factory, Consumer, and Producer patterns. In the process, creating a bespoke RESTful API library for making requests to the new ERP.
+- Designed and developed a program (`Java 8`, `TDD`, `Maven`) to integrate data from our legacy Enterprise Resource Planning (ERP) system to our new Cloud Based ERP. Applying `SOLID principles` the program made use of `Dependency Injection` and common `Design Patterns` including a Factory, Consumer, and Producer. In the process, creating a bespoke RESTful API library for making requests to the new ERP.
 - Analysed and developed a prototype procurement and purchasing integration between ServiceNow and our ERP. Written in `JavaScript`, the integration utilised RESTful APIs, complex workflows, business rules and SMTP servers.
-- Cloud based back-end development of extensions - in `Java` with `XML` configurations - to our ERP (PaaS). Acting as the lead technical expert on extensions, despite only being with the company for a short time. Highlighting my ability to grasp new technologies.
+- Cloud based back-end development of extensions - in `Java` with `XML` configurations - to our PaaS ERP. Acting as the lead technical expert on extensions, despite only being with the company for a short time, highlighting my ability to grasp new technologies.
 - Designing, developing, and deploying bespoke integrations with our ERP. Utilising Java (8 and above) and recent improvements in `Object Oriented` and `Functional` Programming such as: `Streams`, `Lambdas`, and `Monads`.
 - Developing electronic forms in JavaScript, Java, and `PL/SQL` with a focus on UI and UX.
-
-##### Software Development Life Cycle:
-- Led the first in-house release of a new extended version of our ERP system. Conducted the merging, deployment and testing (integration, system, helped with regression) of the new code base in our Staging and UAT environments.
-- Participated in `Agile` development, mainly `Scrum` with elements of `Kanban`, frequently deputising for the Scrum master during Stand-ups and Sprint Retrospectives.
-- Worked closely with our Operations team to support the business in the day-to-day use of our systems. Often taking calls directly with users to gather user stories and provide technical advice.
-- Analysed Product Backlog items in order to effectively estimate – via `planning poker` – the effort/ time to develop. In addition to undertaking technical feasibility analysis of more complex items.
-- Engaged in all forms of testing including `unit testing`, `integration testing`, `system testing`, `regression testing`, `user acceptance testing` and `smoke testing`, as well as regularly `peer reviewing` the work of other developers.
 
 ___
 ### Web and Communications Officer | Imperial College London, Department of Computing
@@ -107,7 +95,7 @@ ___
 ## Education
 ### Birkbeck, University of London | MSc Computer Science | Distinction
 #### 09/2017 - 09/2019
-This intensive programme provided a solid grounding for a career in IT, imparting an in-depth knowledge of computing, software development, and programming. I investigated current areas of research from `Cloud Computing` and `Big Data`, to `Machine Learning` and `Natural Language Processing`.
+This intensive programme provided a solid grounding for a career in IT. It imparted an in-depth knowledge of computing, software development, and programming. I investigated current areas of research from `Cloud Computing` and `Big Data`, to `Machine Learning` and `Natural Language Processing`.
 
 In addition to cutting-edge research, the course covered a variety of topics including `Object-Oriented` and `Functional Programming`, `SOLID principles` and `Design Patterns`, the `Software Development Life Cycle`, `Information Systems and Retrieval`, `Computer Architecture`, `Operating Systems`, and fundamentals from `binary` and `boolean algebra`, to `data structures and algorithms`.
 
