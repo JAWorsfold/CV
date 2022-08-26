@@ -1,12 +1,10 @@
-*Best viewed as a Markdown file (.md) or online @ https://github.com/JAWorsfold/CV.*
+*Best viewed as a Markdown file (.md) or online at https://github.com/JAWorsfold/CV*
 
 # *Curriculum Vitae*
 
-***
 ## Summary
-As a highly-motivated and results-oriented individual, I thrive in data-driven and creative environments. I’m passionate about delivering solutions to challenging problems and have been valued for my ability to grasp new techniques and technologies. I aspire to apply my 3+ years of IT experience and expertise in an area of societal importance.
+As a highly-motivated and results-oriented individual, I thrive in data-driven and creative environments. I’m passionate about delivering solutions to challenging problems and have been valued for my ability to quickly grasp new techniques and technologies. I aspire to apply my years of experience and expertise in an area of societal importance.
 
-***
 ## Skills and Software
 
 * **Back End:**
@@ -31,7 +29,6 @@ As a highly-motivated and results-oriented individual, I thrive in data-driven a
   * `Agile` Methodologies
   * Collaboration, Teamwork, Leadership, Mentoring, Critical Thinking
 
-***
 ## Recent Achievements
 ### Hack Hate 2020: Hate Detector
 #### 10/2020
@@ -45,17 +42,16 @@ Utilising my in-depth knowledge of `Python` and Master's thesis research, I spea
 
 The data was loaded into a `Neo4j` graph database using a data model I had devised in order to explore patterns within the data. Using `Neo4j Bloom` it was also possible to visualise these trends and analyse them in an interactive way. For example, it was possible to visually map hate content to common hashtags and shared websites. Additionally, as a team we analysed the amount of hate content created over time and across US states (where location data was available).
 
-***
 ## Experience
-### Senior Consultant Full-Stack Engineer | Infinity Works part of Accenture | London
+### Senior Consultant Full-Stack Engineer  |  Infinity Works part of Accenture  |  London
 #### 05/2022 - present
 
 ___
-### Consultant Full-Stack Engineer | Infinity Works part of Accenture | London
+### Consultant Full-Stack Engineer  |  Infinity Works part of Accenture  |  London
 #### 10/2021 - 05/2022
 
 ___
-### Software Engineer | UK Home Office | Croydon/ London
+### Software Engineer  |  UK Home Office  |  London
 #### 09/2020 - 10/2021
 
 ##### Front-end Development
@@ -70,11 +66,11 @@ ___
 - Creating bespoke scripts to improve the efficiency and robustness of the product, for example, a `Python` script to update specified `Kubernetes` secrets when new data sources are added.
 
 ##### Data Science and Analysis
-- Advising and collaborating with Data Scientists on their code, for example, working on a `Python` package to contain any commonly used code across repositories. For example, a `Neo4j` wrapper class to make connecting and reading data more abstract and user friendly.
+- Advising and collaborating with Data Scientists when working on a `Python` packages that contain reusable code across repositories. For example, a `Neo4j` wrapper class to make connecting and reading data more abstract and user friendly.
 - Working closely with the Product Manager to capture useful usage statistics on the product, for example, by re-writing MongoDB queries and utilising JavaScript to do complex queries to gain further insight.
 
 ___
-### IT Developer | Mott MacDonald | Croydon
+### IT Developer  |  Mott MacDonald  |  Croydon
 #### 09/2018 - 09/2020
 
 ##### Corporate Applications Development:
@@ -85,15 +81,15 @@ ___
 - Developing electronic forms in JavaScript, Java, and `PL/SQL` with a focus on UI and UX.
 
 ___
-### Web and Communications Officer | Imperial College London, Department of Computing
+### Web and Communications Officer  |  Imperial College London, Department of Computing
 #### 01/2017 - 08/2018
+
 ___
-### Recruitment and Events Manager (and previous roles) | Royal Holloway, University of London
+### Recruitment and Events Manager (and previous roles)  |  Royal Holloway, University of London
 #### 09/2013 - 12/2016
 
-***
 ## Education
-### Birkbeck, University of London | MSc Computer Science | Distinction
+### Birkbeck, University of London  |  MSc Computer Science  |  Distinction
 #### 09/2017 - 09/2019
 This intensive programme provided a solid grounding for a career in IT. It imparted an in-depth knowledge of computing, software development, and programming. I investigated current areas of research from `Cloud Computing` and `Big Data`, to `Machine Learning` and `Natural Language Processing`.
 
@@ -102,14 +98,13 @@ In addition to cutting-edge research, the course covered a variety of topics inc
 **Projects**: available @ https://github.com/JAWorsfold
 
 ___
-### Royal Holloway, University of London | BA History | Upper Second-Class Honours
+### Royal Holloway, University of London  |  BA History  |  Upper Second-Class Honours
 #### 09/2009 - 08/2013
 Studying history improved the depth and range of my transferable skills and developed my:
 - critical reasoning and analytical skills, including the capacity for creative problem solving
 - communication in a structured, clear and persuasive manner, both orally and in writing
 - self-reliance when working without direct supervision and managing time & priorities effectively.
 
-***
 ## Hobbies and Interest
 
 - Reading and creative writing
@@ -118,5 +113,3 @@ Studying history improved the depth and range of my transferable skills and deve
 - Scuba diving
 - Flying trapeze and gymnastics
 - Cycling
-
-***
