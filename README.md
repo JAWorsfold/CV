@@ -38,17 +38,21 @@ As a highly-motivated and results-oriented individual, I thrive in data-driven a
 
 **Presentation**: https://youtu.be/xDyxznaKjCQ?t=1913 | **Code**: https://github.com/HateDetector
 
-Utilising my in-depth knowledge of `Python` and Master's thesis research, I spearheaded a team of engineers to develop a tool to detect and visualise networks of hate speech. As the team lead I contributed the majority of the code for both the social media `scraping` and `text classification` using `machine learning` models. In total I scraped 18.5 million tweets - related to the 2020 US Election - and classified them as either hate or non-hate. For the classification I used a consensus of three models trained using the following algorithms: `Logistic Regression`, `Support Vector Machines`, and `Convolutional Neural Networks`.
-
-The data was loaded into a `Neo4j` graph database using a data model I had devised in order to explore patterns within the data. Using `Neo4j Bloom` it was also possible to visualise these trends and analyse them in an interactive way. For example, it was possible to visually map hate content to common hashtags and shared websites. Additionally, as a team we analysed the amount of hate content created over time and across US states (where location data was available).
+Utilising my in-depth knowledge of `Python` and Master's thesis research, I spearheaded a team of engineers to develop a tool to detect and visualise networks of hate speech. The team scraped 18.5 million tweets related to the 2020 US Election and classified them using a consensus of three machine learning models: `Logistic Regression`, `Support Vector Machines`, and `Convolutional Neural Networks`. The data was loaded into a `Neo4j` graph database and visualised in order to analyse trends and see patterns in the data.
 
 ## Experience
 ### Senior Consultant Full-Stack Engineer  |  Infinity Works part of Accenture  |  London
 #### 05/2022 - present
+- Tech Lead for a new mission to automate the processing of Underwriting data and acquire data for downstream systems
+- Developing and maintaining multiple web applications for specialty insurance, utilising `TypeScript`, `Node`, `Nest.js`, `React`, `Postgres`, `Docker`, and `AWS` (ECS, RDS, Lambda, S3, EventBridge, CDK)
+- Designing and implementing complex integrations and automations between systems, utilising event-driven architecture in AWS
+- Leading agile ceremonies on behalf of the scrum master
+- Mentoring, pair programmming and peer reveiewing the work of junior developers
 
 ___
 ### Consultant Full-Stack Engineer  |  Infinity Works part of Accenture  |  London
 #### 10/2021 - 05/2022
+Convex Insurance Digital Underwriting - utilising the latest technologies to offer new growth opportunities in the specialty market
 
 ___
 ### Software Engineer  |  UK Home Office  |  London
