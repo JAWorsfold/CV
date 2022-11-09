@@ -43,17 +43,19 @@ Utilising my in-depth knowledge of `Python` and Master's thesis research, I spea
 ## Experience
 ### Senior Consultant Full-Stack Engineer  |  Infinity Works part of Accenture  |  London
 #### 05/2022 - present
-Convex Insurance - Digital Underwriting - Utilising the latest technologies to offer new growth opportunities in the specialty market
-- Tech Lead for a new mission to automate the processing of Underwriting data and acquire data for downstream systems
-- Developing and maintaining multiple web applications for specialty insurance, utilising `TypeScript`, `Node`, `Nest.js`, `React`, `Postgres`, `Docker`, and `AWS` (ECS, RDS, Lambda, S3, EventBridge, CDK)
+
+##### Convex Insurance: Digital Underwriting - Utilising the latest technologies to offer new growth opportunities in the specialty market
+- Tech Lead for a new mission to automate the processing of underwriting data and distributing it to downstream systems
+- Developing and maintaining multiple web applications for specialty insurance. Utilising `TypeScript`, `Node`, `Nest.js`, `React`, `Postgres`, `Docker`, and `AWS` (ECS, RDS, Lambda, S3, EventBridge, CDK)
 - Designing and implementing complex integrations and automations between systems, utilising event-driven architecture in AWS
+- Mentoring, pair programmming, and peer reveiewing the work of junior developers
 - Leading agile ceremonies on behalf of the scrum master
-- Mentoring, pair programmming and peer reveiewing the work of junior developers
 
 ___
 ### Consultant Full-Stack Engineer  |  Infinity Works part of Accenture  |  London
 #### 10/2021 - 05/2022
-Convex Insurance
+
+##### Convex Insurance
 
 ___
 ### Software Engineer  |  UK Home Office  |  London
@@ -117,4 +119,3 @@ Studying history improved the depth and range of my transferable skills and deve
 - Nature and the environment
 - Scuba diving
 - Flying trapeze and gymnastics
-- Cycling
