@@ -118,5 +118,6 @@ Studying history improved the depth and range of my transferable skills and deve
 - Reading and creative writing
 - Science and technology
 - Nature and the environment
-- Scuba diving
 - Flying trapeze and gymnastics
+- Scuba diving
+
