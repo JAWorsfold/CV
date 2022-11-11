@@ -16,7 +16,7 @@ As a highly-motivated and results-oriented individual, I thrive in data-driven a
   * `HTML5` and `CSS3`
 * **Database:**
   * RDBMS/ SQL (`Oracle`, `SQL Server`, `MySQL`, `PostgreSQL`)
-  * NoSQL (`MongoDB`, `Neo4j`, `JSON`)
+  * NoSQL (`MongoDB`, `DynamoDB`, `Neo4j`)
 * **Architecture and Cloud:**
   * Infrastructure as Code: `Terraform` & `CDK`
   * `CI/CD`: Git, Github Workflows, DroneCI, `TDD`
@@ -24,7 +24,6 @@ As a highly-motivated and results-oriented individual, I thrive in data-driven a
   * `AWS`: ECS, RDS, S3, Lambda, Cloudwatch
   * `RESTful` Web Services
 * **Other Skills:**
-  * Operating Systems (`MacOS`, `Linux`, `Windows`)
   * Data Analysis, Modelling, and Visualisation
   * `Agile` Methodologies
   * Collaboration, Teamwork, Leadership, Mentoring, Critical Thinking
@@ -45,9 +44,11 @@ Utilising my in-depth knowledge of `Python` and Master's thesis research, I spea
 #### 05/2022 - present
 
 ##### Convex Insurance: Digital Underwriting - Utilising the latest technologies to offer new growth opportunities in the specialty market
-- Tech Lead for a new mission to automate the processing of underwriting data and distributing it to downstream systems
+- Tech Lead for a new mission to automate the extraction, enrichment, and distruibution of underwriting data to downstream systems
 - Developing and maintaining multiple web applications for specialty insurance. Utilising `TypeScript`, `Node`, `Nest.js`, `React`, `Postgres`, `Docker`, and `AWS` (ECS, RDS, Lambda, S3, EventBridge, CDK)
-- Designing and implementing complex integrations and automations between systems, utilising event-driven architecture in AWS
+- Focusing on an `Everything as Code` approach that ensures the consistency and robustness of delivered products
+- Designing and implementing complex integrations and automations, utilising `serverless` and `event-driven architectures`
+- Working closely with the client to understand their vision and refine a roadmap of delivery
 - Mentoring, pair programmming, and peer reveiewing the work of junior developers
 - Leading agile ceremonies on behalf of the scrum master
 
