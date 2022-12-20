@@ -93,7 +93,7 @@ ___
 #### 01/2017 - 08/2018
 
 ___
-### Recruitment and Events Manager (and previous roles)  |  Royal Holloway, University of London
+### Recruitment and Events Manager (and past roles)  |  Royal Holloway, University of London
 #### 09/2013 - 12/2016
 
 ## Education
