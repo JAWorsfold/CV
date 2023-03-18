@@ -45,6 +45,7 @@ Utilising my in-depth knowledge of `Python` and Master's thesis research, I spea
 ### Lead Software Engineer (Tech Lead) | Flock Cover | London
 #### 02/2023 - present
 
+___
 ### Senior Consultant Full-Stack Engineer  |  Infinity Works part of Accenture  |  London
 #### 10/2021 - 02/2023
 
