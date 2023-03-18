@@ -8,20 +8,21 @@ As a highly-motivated and results-oriented individual, I thrive in data-driven a
 ## Skills and Software
 
 * **Back End:**
-  * `JavaScript` & `TypeScript` (`Node.js`, `NestJS`, `TypeORM`, `Jest`, `Cypress`, `yarn`)
+  * `JavaScript` & `TypeScript` (`Node.js`, `NestJS`, `TypeORM`, `Jest`, `yarn`)
   * `Java` (Spring, Apache Commons, JUnit, Maven, Gradle)
   * `Python` (Pandas, NumPy, Scikit, TensorFlow, Keras, Jupyter, Pytest, Unittest, Mocker)
 * **Front End:**
   * `JavaScript` & `TypeScript` (`React`, `Next.js`,  `Angular`)
   * `HTML5` and `CSS3`
-* **Database:**
+* **Database and Data Engineering:**
   * RDBMS/ SQL (`Oracle`, `SQL Server`, `MySQL`, `PostgreSQL`)
+  * `Snowflake`, `Fivetran`
   * NoSQL (`MongoDB`, `DynamoDB`, `Neo4j`)
 * **Architecture and Cloud:**
   * Infrastructure as Code: `Terraform` & `CDK`
   * `CI/CD`: Git, Github Workflows, DroneCI, `TDD`
   * `Docker` & `Kubernetes`
-  * `AWS`: ECS, RDS, S3, Lambda, Cloudwatch
+  * `AWS`: ECS, RDS, S3, Lambda, Cloudwatch (`Serverless`)
   * `RESTful` Web Services
 * **Other Skills:**
   * Data Analysis, Modelling, and Visualisation
@@ -40,8 +41,12 @@ As a highly-motivated and results-oriented individual, I thrive in data-driven a
 Utilising my in-depth knowledge of `Python` and Master's thesis research, I spearheaded a team of engineers to develop a tool to detect and visualise networks of hate speech. The team scraped 18.5 million tweets related to the 2020 US Election and classified them using a consensus of three machine learning models: `Logistic Regression`, `Support Vector Machines`, and `Convolutional Neural Networks`. The data was loaded into a `Neo4j` graph database and visualised in order to analyse trends and see patterns in the data.
 
 ## Experience
+
+### Lead Software Engineer (Tech Lead) | Flock Cover | London
+#### 02/2023 - present
+
 ### Senior Consultant Full-Stack Engineer  |  Infinity Works part of Accenture  |  London
-#### 05/2022 - present
+#### 10/2021 - 02/2023
 
 ##### Convex Insurance: Digital Underwriting - Utilising the latest technologies to offer new growth opportunities in the specialty market
 - Tech Lead for a new mission to automate the extraction, enrichment, and distruibution of underwriting data to downstream systems
@@ -51,12 +56,6 @@ Utilising my in-depth knowledge of `Python` and Master's thesis research, I spea
 - Working closely with the client to understand their vision and refine a roadmap of delivery
 - Mentoring, pair programmming, and peer reveiewing the work of junior developers
 - Leading agile ceremonies on behalf of the scrum master
-
-___
-### Consultant Full-Stack Engineer  |  Infinity Works part of Accenture  |  London
-#### 10/2021 - 05/2022
-
-##### Convex Insurance
 
 ___
 ### Software Engineer  |  UK Home Office  |  London
@@ -87,14 +86,6 @@ ___
 - Cloud based back-end development of extensions - in `Java` with `XML` configurations - to our PaaS ERP. Acting as the lead technical expert on extensions, despite only being with the company for a short time, highlighting my ability to grasp new technologies.
 - Designing, developing, and deploying bespoke integrations with our ERP. Utilising Java (8 and above) and recent improvements in `Object Oriented` and `Functional` Programming such as: `Streams`, `Lambdas`, and `Monads`.
 - Developing electronic forms in JavaScript, Java, and `PL/SQL` with a focus on UI and UX.
-
-___
-### Web and Communications Officer  |  Imperial College London, Department of Computing
-#### 01/2017 - 08/2018
-
-___
-### Recruitment and Events Manager (and past roles)  |  Royal Holloway, University of London
-#### 09/2013 - 12/2016
 
 ## Education
 ### Birkbeck, University of London  |  MSc Computer Science  |  Distinction
