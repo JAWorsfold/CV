@@ -3,26 +3,26 @@
 # *Curriculum Vitae*
 
 ## Summary
-As a highly-motivated and results-oriented individual, I thrive in data-driven and creative environments. I’m passionate about delivering solutions to challenging problems and have been valued for my ability to quickly grasp new techniques and technologies. I aspire to apply my years of experience and expertise in an area of societal importance.
+As a tech lead at Flock, I thrive on the challenge and joy of leading a team, fostering innovation and growth while harnessing the synergy of diverse minds to deliver cutting-edge technology. In the confluence of data-rich and innovative environments, my comprehensive skills as a Full Stack Developer, DevOps Engineer, and Data Science enthusiast find their most potent application.
 
 ## Skills and Software
 
 * **Back End:**
   * `JavaScript` & `TypeScript` (`Node.js`, `NestJS`, `TypeORM`, `Jest`, `yarn`)
-  * `Java` (Spring, Apache Commons, JUnit, Maven, Gradle)
   * `Python` (Pandas, NumPy, Scikit, TensorFlow, Keras, Jupyter, Pytest, Unittest, Mocker)
+  * `Java` & some `Scala` (Spring, Apache, JUnit, Maven, Gradle)
 * **Front End:**
-  * `JavaScript` & `TypeScript` (`React`, `Next.js`,  `Angular`)
+  * `JavaScript` & `TypeScript` (`React`, `Next.js`, `ChakraUI`, `Storybook`)
   * `HTML5` and `CSS3`
 * **Database and Data Engineering:**
-  * RDBMS/ SQL (`Oracle`, `SQL Server`, `MySQL`, `PostgreSQL`)
-  * `Snowflake`, `Fivetran`
+  * RDBMS/ SQL (`PostgreSQL`, `Oracle`, `SQL Server`, `MySQL`)
   * NoSQL (`MongoDB`, `DynamoDB`, `Neo4j`)
+  * `Snowflake` & `Fivetran` exposure
 * **Architecture and Cloud:**
   * Infrastructure as Code: `Terraform` & `CDK`
-  * `CI/CD`: Git, Github Workflows, DroneCI, `TDD`
+  * `CI/CD`: Git, Github Workflows, `Test Driven Development`
   * `Docker` & `Kubernetes`
-  * `AWS`: ECS, RDS, S3, Lambda, Cloudwatch (`Serverless`)
+  * `AWS`: ECS, EKS, RDS, S3, Lambda, Cloudwatch etc. (`Serverless`)
   * `RESTful` Web Services
 * **Other Skills:**
   * Data Analysis, Modelling, and Visualisation
@@ -38,7 +38,7 @@ As a highly-motivated and results-oriented individual, I thrive in data-driven a
 
 **Presentation**: https://youtu.be/xDyxznaKjCQ?t=1913 | **Code**: https://github.com/HateDetector
 
-Utilising my in-depth knowledge of `Python` and Master's thesis research, I spearheaded a team of engineers to develop a tool to detect and visualise networks of hate speech. The team scraped 18.5 million tweets related to the 2020 US Election and classified them using a consensus of three machine learning models: `Logistic Regression`, `Support Vector Machines`, and `Convolutional Neural Networks`. The data was loaded into a `Neo4j` graph database and visualised in order to analyse trends and see patterns in the data.
+Utilising my in-depth knowledge of `Python` and Master's thesis research, I spearheaded a team of engineers to develop a tool to detect and visualise networks of hate speech. The team scraped 18.5 million tweets related to the 2020 US Election and classified them using a consensus of three machine learning models: `Logistic Regression`, `Support Vector Machines`, and my own `Convolutional Neural Network`. The data was loaded into a `Neo4j` graph database and visualised in order to analyse trends and see patterns in the data.
 
 ## Experience
 
@@ -112,4 +112,3 @@ Studying history improved the depth and range of my transferable skills and deve
 - Nature and the environment
 - Flying trapeze and gymnastics
 - Scuba diving
-
