@@ -3,7 +3,7 @@
 # *Curriculum Vitae*
 
 ## Summary
-As a tech lead at Flock, I thrive on the challenge and joy of leading a team, fostering innovation and growth while harnessing the synergy of diverse minds to deliver cutting-edge technology. In the confluence of data-rich and innovative environments, my comprehensive skills as a Full Stack Developer, DevOps Engineer, and Data Science enthusiast find their most potent application.
+As a tech lead at Flock, I thrive on the opportunities and satisfaction of leading a team, fostering innovation and growth while harnessing the union of diverse minds to deliver cutting-edge technology. In the confluence of data-rich and innovative environments, my comprehensive skills as a Full Stack Developer, DevOps Engineer, and Data Science enthusiast find their most potent application.
 
 ## Skills and Software
 
