@@ -3,7 +3,7 @@
 # *Curriculum Vitae*
 
 ## Summary
-As a tech lead at Flock, I thrive on the opportunities and satisfaction of leading a team, fostering innovation and growth while harnessing the union of diverse minds to deliver cutting-edge technology. In the confluence of data-rich and innovative environments, my comprehensive skills as a Full Stack Developer, DevOps Engineer, and Data Science enthusiast find their most potent application.
+Experienced Tech Lead driven by a genuine passion for guiding teams and fostering innovation. I have a proven track record of leveraging diverse perspectives to deliver cutting-edge and impactful technology solutions. With expertise as a Full Stack Developer, DevOps Engineer, and Data Science enthusiast, I thrive in data-rich, creative, and innovative environments.
 
 ## Skills and Software
 
@@ -44,6 +44,12 @@ Utilising my in-depth knowledge of `Python` and Master's thesis research, I spea
 
 ### Lead Software Engineer (Tech Lead) | Flock Cover | London
 #### 02/2023 - present
+
+- **Developing the Next-Generation Insurance Platform**: I am responsible for working across the full stack to design, build, and deploy new features using cutting-edge serverless technologies in AWS. This includes developing with tools like NodeJS, TypeScript, Postgres, and Scala.
+- **Quality Assurance and Code Review**: I ensure the delivery of high-quality, well-tested features into our production system on a regular basis. I also review the code of my fellow developers via Pull Requests on GitHub to maintain our high standards.
+- **Mentorship and Pair Programming**: I work directly with other developers through pair programming and provide mentorship to less experienced team members, fostering a culture of knowledge sharing and continuous improvement within our team.
+- **Participation in Agile Practices**: I actively participate in Agile ceremonies such as planning sessions, retrospectives, stand-ups, etc. I collaborate with the Product and Tech team to design and estimate new features, and I help maintain and improve our infrastructure and pipelines.
+- **Research and Continuous Learning**: I proactively research new technologies to help us maintain a competitive edge. I am committed to learning new tech stacks when required, and I focus on developing a deep understanding of AWS serverless technologies to effectively deploy and monitor our platform.
 
 ___
 ### Senior Consultant Full-Stack Engineer  |  Infinity Works part of Accenture  |  London
