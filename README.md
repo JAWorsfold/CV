@@ -8,11 +8,11 @@ Experienced Tech Lead driven by a genuine passion for guiding teams and fosterin
 ## Skills and Software
 
 * **Back End:**
-  * `JavaScript` & `TypeScript` (`Node.js`, `NestJS`, `TypeORM`, `Jest`, `yarn`)
+  * `TypeScript` & `JavaScript` (`Node.js`, `NestJS`, `TypeORM`, `Jest`, `yarn`)
   * `Python` (Pandas, NumPy, Scikit, TensorFlow, Keras, Jupyter, Pytest, Unittest, Mocker)
   * `Java` & some `Scala` (Spring, Apache, JUnit, Maven, Gradle)
 * **Front End:**
-  * `JavaScript` & `TypeScript` (`React`, `Next.js`, `ChakraUI`, `Storybook`)
+  * `TypeScript` & `JavaScript` (`React`, `Next.js`, `ChakraUI`, `Storybook`)
   * `HTML5` and `CSS3`
 * **Database and Data Engineering:**
   * RDBMS/ SQL (`PostgreSQL`, `Oracle`, `SQL Server`, `MySQL`)
@@ -24,10 +24,6 @@ Experienced Tech Lead driven by a genuine passion for guiding teams and fosterin
   * `Docker` & `Kubernetes`
   * `AWS`: ECS, EKS, RDS, S3, Lambda, Cloudwatch etc. (`Serverless`)
   * `RESTful` Web Services
-* **Other Skills:**
-  * Data Analysis, Modelling, and Visualisation
-  * `Agile` Methodologies
-  * Collaboration, Teamwork, Leadership, Mentoring, Critical Thinking
 
 ## Recent Achievements
 ### Hack Hate 2020: Hate Detector
