@@ -9,6 +9,7 @@ Experienced Tech Lead driven by a genuine passion for guiding teams and fosterin
 
 * **Back End:**
   * `TypeScript` & `JavaScript` (`Node.js`, `NestJS`, `TypeORM`, `Jest`, `yarn`)
+  * `Go`
   * `Python` (Pandas, NumPy, Scikit, TensorFlow, Keras, Jupyter, Pytest, Unittest, Mocker)
   * `Java` & some `Scala` (Spring, Apache, JUnit, Maven, Gradle)
 * **Front End:**
@@ -22,7 +23,7 @@ Experienced Tech Lead driven by a genuine passion for guiding teams and fosterin
   * Infrastructure as Code: `Terraform` & `CDK`
   * `CI/CD`: Git, Github Workflows, `Test Driven Development`
   * `Docker` & `Kubernetes`
-  * `AWS`: ECS, EKS, RDS, S3, Lambda, Cloudwatch etc. (`Serverless`)
+  * `AWS`: Lambda, SQS, EventBridge, Step Functions, ECS, EKS, ECR, Cloudwatch etc. (`Serverless`, `Event-driven Architecture`)
   * `RESTful` Web Services
 
 ## Recent Achievements
@@ -38,8 +39,11 @@ Utilising my in-depth knowledge of `Python` and Master's thesis research, I spea
 
 ## Experience
 
+### Full-stack Software Engineer | Aviva Zero | London
+#### 01/2024 - present
+
 ### Lead Software Engineer (Tech Lead) | Flock Cover | London
-#### 02/2023 - present
+#### 02/2023 - 01/2024
 
 - **Developing the Next-Generation Insurance Platform**: I am responsible for working across the full stack to design, build, and deploy new features using cutting-edge serverless technologies in AWS. This includes developing with tools like NodeJS, TypeScript, Postgres, and Scala.
 - **Quality Assurance and Code Review**: I ensure the delivery of high-quality, well-tested features into our production system on a regular basis. I also review the code of my fellow developers via Pull Requests on GitHub to maintain our high standards.
