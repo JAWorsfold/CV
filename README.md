@@ -9,7 +9,7 @@ Experienced Tech Lead driven by a genuine passion for guiding teams and fosterin
 
 * **Back End:**
   * `TypeScript` & `JavaScript` (`Node.js`, `NestJS`, `TypeORM`, `Jest`, `yarn`)
-  * `Go`
+  * `Go` (`Goroutines`, `Channels`, `Error Handling`)
   * `Python` (Pandas, NumPy, Scikit, TensorFlow, Keras, Jupyter, Pytest, Unittest, Mocker)
   * `Java` & some `Scala` (Spring, Apache, JUnit, Maven, Gradle)
 * **Front End:**
@@ -42,6 +42,7 @@ Utilising my in-depth knowledge of `Python` and Master's thesis research, I spea
 ### Full-stack Software Engineer | Aviva Zero | London
 #### 01/2024 - present
 
+___
 ### Lead Software Engineer (Tech Lead) | Flock Cover | London
 #### 02/2023 - 01/2024
 
