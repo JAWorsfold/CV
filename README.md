@@ -3,7 +3,7 @@
 # *Curriculum Vitae*
 
 ## Summary
-Experienced Tech Lead driven by a genuine passion for guiding teams and fostering innovation. I have a proven track record of leveraging diverse perspectives to deliver cutting-edge and impactful technology solutions. With expertise as a Full Stack Developer, DevOps Engineer, and Data Science enthusiast, I thrive in data-rich, creative, and innovative environments.
+Experienced Tech Lead driven by a genuine passion for guiding teams and fostering innovation. I have a proven track record of leveraging diverse perspectives to deliver cutting-edge and impactful technology solutions. With expertise as a Senior Full Stack Developer, DevOps Engineer, and Data Science enthusiast, I thrive in data-rich, creative, and innovative environments.
 
 ## Skills and Software
 
@@ -26,7 +26,7 @@ Experienced Tech Lead driven by a genuine passion for guiding teams and fosterin
   * `AWS`: Lambda, SQS, EventBridge, Step Functions, ECS, EKS, ECR, Cloudwatch etc. (`Serverless`, `Event-driven Architecture`)
   * `RESTful` Web Services
 
-## Recent Achievements
+## Achievements
 ### Hack Hate 2020: Hate Detector
 #### 10/2020
 
@@ -39,21 +39,29 @@ Utilising my in-depth knowledge of `Python` and Master's thesis research, I spea
 
 ## Experience
 
-### Full-stack Software Engineer | Aviva Zero | London
+### Full Stack Software Engineer | Aviva Zero | London
 #### 01/2024 - present
+
+##### Leveraging cutting-edge technology to tackle climate change with insurance products that offer carbon offsetting initiatives
+- **Optimizing Backend Performance in Go**: I leverage my expertise in writing fast and performant backend code in Go, utilizing language features to achieve optimal outcomes.
+- **Crafting User Interfaces with Chakra UI and Storybook**: I translate Figma designs into well-tested, well-designed, accessible front-end code using Chakra UI and Storybook.
+- **Building Serverless Infrastructure with CDK**: I design and implement event-driven serverless infrastructure code using CDK. I have recent experience with Step Functions and Kinesis Firehose for efficient orchestration of user journeys and data processing.
+- **Continuous Improvement Champion**: I actively implement improvements to enhance code quality. Recent examples include making requests idempotent and implementing automated alerting and observability improvements to streamline DevSecOps processes.
+- **Promoting Developer Best Practices**: I foster a culture of transparency and collaboration by advocating for developer best practices. This includes creating improved documentation, providing constructive feedback through squad health checks, and participating in post-incident reviews.
 
 ___
 ### Lead Software Engineer (Tech Lead) | Flock Cover | London
 #### 02/2023 - 01/2024
 
-- **Developing the Next-Generation Insurance Platform**: I am responsible for working across the full stack to design, build, and deploy new features using cutting-edge serverless technologies in AWS. This includes developing with tools like NodeJS, TypeScript, Postgres, and Scala.
-- **Quality Assurance and Code Review**: I ensure the delivery of high-quality, well-tested features into our production system on a regular basis. I also review the code of my fellow developers via Pull Requests on GitHub to maintain our high standards.
-- **Mentorship and Pair Programming**: I work directly with other developers through pair programming and provide mentorship to less experienced team members, fostering a culture of knowledge sharing and continuous improvement within our team.
-- **Participation in Agile Practices**: I actively participate in Agile ceremonies such as planning sessions, retrospectives, stand-ups, etc. I collaborate with the Product and Tech team to design and estimate new features, and I help maintain and improve our infrastructure and pipelines.
-- **Research and Continuous Learning**: I proactively research new technologies to help us maintain a competitive edge. I am committed to learning new tech stacks when required, and I focus on developing a deep understanding of AWS serverless technologies to effectively deploy and monitor our platform.
+#### Making the world quantifiably safer by reinventing insurance from the ground up
+- **Developing the Next-Generation Insurance Platform**: I was responsible for working across the full stack to design, build, and deploy new features using cutting-edge serverless technologies in AWS. This includes developing with tools like NodeJS, TypeScript, Postgres, and Scala.
+- **Quality Assurance and Code Review**: I ensured the delivery of high-quality, well-tested features into our production system on a regular basis. I also reviewed the code of my fellow developers via Pull Requests on GitHub to maintain our high standards.
+- **Mentorship and Pair Programming**: I worked directly with other developers through pair programming and provide mentorship to less experienced team members, fostering a culture of knowledge sharing and continuous improvement within our team.
+- **Participation in Agile Practices**: I actively participated in Agile ceremonies such as planning sessions, retrospectives, stand-ups, etc. I collaborated with the Product and Tech team to design and estimate new features, and I helped maintain and improve our infrastructure and pipelines.
+- **Research and Continuous Learning**: I proactively researched new technologies to help us maintain a competitive edge. I was committed to learning new tech stacks when required, and I focus on developing a deep understanding of AWS serverless technologies to effectively deploy and monitor our platform.
 
 ___
-### Senior Consultant Full-Stack Engineer  |  Infinity Works part of Accenture  |  London
+### Senior Consultant Full Stack Engineer  |  Infinity Works part of Accenture  |  London
 #### 10/2021 - 02/2023
 
 ##### Convex Insurance: Digital Underwriting - Utilising the latest technologies to offer new growth opportunities in the specialty market
