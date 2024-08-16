@@ -8,8 +8,8 @@ Experienced Tech Lead driven by a genuine passion for guiding teams and fosterin
 ## Skills and Software
 
 * **Back End:**
-  * `TypeScript` & `JavaScript` (`Node.js`, `NestJS`, `TypeORM`, `Jest`, `yarn`)
   * `Go` (`Goroutines`, `Channels`, `Error Handling`)
+  * `TypeScript` (`Node.js`, `NestJS`, `TypeORM`, `Jest`, `npm`, `yarn`)
   * `Python` (Pandas, NumPy, Scikit, TensorFlow, Keras, Jupyter, Pytest, Unittest, Mocker)
   * `Java` & some `Scala` (Spring, Apache, JUnit, Maven, Gradle)
 * **Front End:**
@@ -21,7 +21,7 @@ Experienced Tech Lead driven by a genuine passion for guiding teams and fosterin
   * `Snowflake` & `Fivetran` exposure
 * **Architecture and Cloud:**
   * Infrastructure as Code: `Terraform` & `CDK`
-  * `CI/CD`: Git, Github Workflows, `Test Driven Development`
+  * `CI/CD`: Git, Github Workflows, `Test Driven Development`, `Launch Darkly`
   * `Docker` & `Kubernetes`
   * `AWS`: Lambda, SQS, EventBridge, Step Functions, ECS, EKS, ECR, Cloudwatch etc. (`Serverless`, `Event-driven Architecture`)
   * `RESTful` Web Services
