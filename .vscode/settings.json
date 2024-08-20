@@ -36,7 +36,7 @@
   "markdown-pdf.format": "A4",
 
   // pdf only. HTML template for the print header.
-  "markdown-pdf.headerTemplate": "<div style=\"font-size: 8px; margin-left: 1cm;\"> <span>Best viewed as a Markdown file (.md) or online at </span><a href=\"https://github.com/JAWorsfold/CV\">https://github.com/JAWorsfold/CV</a></div> <div style=\"font-size: 8px; margin-left: auto; margin-right: 1cm; \">%%ISO-DATE%%</div>",
+  "markdown-pdf.headerTemplate": "<div style=\"font-size: 8px; margin-left: 1cm;\"> <span>Best viewed as a Markdown file (.md) or online at </span><a href=\"https://github.com/JAWorsfold/CV\">https://github.com/JAWorsfold/CV</a></div> <div style=\"font-size: 8px; margin-left: auto; margin-right: 1cm; \">Generated from md: %%ISO-DATE%%</div>",
 
   // pdf only. Paper height, accepts values labeled with units(mm, cm, in, px). If it is set, it overrides the markdown-pdf.format option.
   "markdown-pdf.height": "",

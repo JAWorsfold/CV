@@ -2,12 +2,16 @@
   font-size: 3px;
   color: #ffffff;
   padding: 0px;
-  line-height: 0%;
+  line-height: 0;
 }
 
 p, li, ul, code {
   font-size: 12px;
-  line-height: 133%;
+  line-height: 150%;
+}
+
+h1, h2, h3, h4, h5 {
+  line-height: 75%;
 }
 
 hr {
@@ -24,4 +28,17 @@ hr {
   border: none;
   border-top: 1px solid #aaaaaa;
   border-bottom: 1px solid #ffffff;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #ffffff;
+  /* background-color: #3333337d; */
+  /* border-radius: 0.15em; */
+  padding: .2em .4em;
+  margin: 0;
+  font-size: 85%;
+  white-space: break-spaces;
+  background-color: #454b5384;
+  border-radius: 6px;
 }
