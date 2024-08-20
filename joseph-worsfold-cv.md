@@ -2,7 +2,7 @@
 
 ## Summary
 
-Experienced Tech Lead driven by a genuine passion for guiding teams and fostering innovation. I have a proven track record of leveraging diverse perspectives to deliver cutting-edge and impactful technology solutions. With expertise as a Senior Full Stack Developer, DevOps Engineer, and Data Science enthusiast, I thrive in data-rich, creative, and innovative environments.
+TEST GITATTRIBUTES. Experienced Tech Lead driven by a genuine passion for guiding teams and fostering innovation. I have a proven track record of leveraging diverse perspectives to deliver cutting-edge and impactful technology solutions. With expertise as a Senior Full Stack Developer, DevOps Engineer, and Data Science enthusiast, I thrive in data-rich, creative, and innovative environments.
 
 ___
 
