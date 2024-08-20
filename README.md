@@ -8,7 +8,7 @@ Experienced Tech Lead driven by a genuine passion for guiding teams and fosterin
 ## Skills and Software
 
 * **Back End:**
-  * `Go` (`Goroutines`, `Channels`, `Error Handling`)
+  * `Go` (`Goroutines`, `templ`, `zap`, `gorm`, `typescriptify`, `xc`)
   * `TypeScript` (`Node.js`, `NestJS`, `TypeORM`, `Jest`, `npm`, `yarn`)
   * `Python` (Pandas, NumPy, Scikit, TensorFlow, Keras, Jupyter, Pytest, Unittest, Mocker)
   * `Java` & some `Scala` (Spring, Apache, JUnit, Maven, Gradle)
@@ -20,11 +20,11 @@ Experienced Tech Lead driven by a genuine passion for guiding teams and fosterin
   * NoSQL (`MongoDB`, `DynamoDB`, `Neo4j`)
   * `Snowflake` & `Fivetran` exposure
 * **Architecture and Cloud:**
-  * Infrastructure as Code: `Terraform` & `CDK`
-  * `CI/CD`: Git, Github Workflows, `Test Driven Development`, `Launch Darkly`
-  * `Docker` & `Kubernetes`
   * `AWS`: Lambda, SQS, EventBridge, Step Functions, ECS, EKS, ECR, Cloudwatch etc. (`Serverless`, `Event-driven Architecture`)
-  * `RESTful` Web Services
+  * Infrastructure as Code: `Terraform` & `CDK`
+  * `CI/CD`: GitHub Workflows, `Test Driven Development`, `Launch Darkly`
+  * `Docker` & `Kubernetes`
+  * `RESTful` Web Services & `WebSockets`
 
 ## Achievements
 ### Hack Hate 2020: Hate Detector
@@ -43,7 +43,7 @@ Utilising my in-depth knowledge of `Python` and Master's thesis research, I spea
 #### 01/2024 - present
 
 ##### Leveraging cutting-edge technology to tackle climate change with insurance products that offer carbon offsetting initiatives
-- **Optimizing Backend Performance in Go**: I leverage my expertise in writing fast and performant backend code in Go, utilizing language features to achieve optimal outcomes.
+- **Optimizing Backend Performance in Go**: I leverage my expertise in writing fast and performant backend code in `Go`, utilizing language features to achieve optimal outcomes.
 - **Crafting User Interfaces with Chakra UI and Storybook**: I translate Figma designs into well-tested, well-designed, accessible front-end code using Chakra UI and Storybook.
 - **Building Serverless Infrastructure with CDK**: I design and implement event-driven serverless infrastructure code using CDK. I have recent experience with Step Functions and Kinesis Firehose for efficient orchestration of user journeys and data processing.
 - **Continuous Improvement Champion**: I actively implement improvements to enhance code quality. Recent examples include making requests idempotent and implementing automated alerting and observability improvements to streamline DevSecOps processes.
@@ -127,3 +127,5 @@ Studying history improved the depth and range of my transferable skills and deve
 - Nature and the environment
 - Flying trapeze and gymnastics
 - Scuba diving
+
+<span style="color:black">TODO</span>
