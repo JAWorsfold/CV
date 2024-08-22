@@ -30,13 +30,13 @@
   "markdown-pdf.executablePath": "",
 
   // pdf only. HTML template for the print footer.
-  "markdown-pdf.footerTemplate": "<div style=\"font-size: 8px; margin: 0 auto;\"> <span class='pageNumber'></span> / <span class='totalPages'></span></div>",
+  "markdown-pdf.footerTemplate": "<div style=\"font-size: 8px; margin-left: 1cm; \">Generated from md: %%ISO-DATE%%</div> <div style=\"font-size: 8px; margin-left: auto; margin-right: 1cm;\"> <span class='pageNumber'></span> / <span class='totalPages'></span></div>",
 
   // pdf only. Paper format [Letter, Legal, Tabloid, Ledger, A0, A1, A2, A3, A4, A5, A6].
   "markdown-pdf.format": "A4",
 
   // pdf only. HTML template for the print header.
-  "markdown-pdf.headerTemplate": "<div style=\"font-size: 8px; margin-left: 1cm;\"> <span>Best viewed as a Markdown file (.md) or online at </span><a href=\"https://github.com/JAWorsfold/CV\">https://github.com/JAWorsfold/CV</a></div> <div style=\"font-size: 8px; margin-left: auto; margin-right: 1cm; \">Generated from md: %%ISO-DATE%%</div>",
+  "markdown-pdf.headerTemplate": "<div style=\"font-size: 8px; margin-left: 1cm;\"> <span>Best viewed online at </span><a href=\"https://github.com/JAWorsfold/CV\">https://github.com/JAWorsfold/CV</a></div> <div style=\"font-size: 8px; margin-left: auto; margin-right: 1cm; \"><a href=\"mailto:<CHANGEBACK>@gmail.com\">Joe Worsfold</a>",
 
   // pdf only. Paper height, accepts values labeled with units(mm, cm, in, px). If it is set, it overrides the markdown-pdf.format option.
   "markdown-pdf.height": "",

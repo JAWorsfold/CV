@@ -2,30 +2,29 @@
 
 ## **Summary**
 
-Experienced Tech Lead driven by a genuine passion for guiding teams and fostering innovation. I have a proven track record of leveraging diverse perspectives to deliver cutting-edge and impactful technology solutions. With expertise as a Senior Full Stack Developer, DevOps Engineer, and Data Science enthusiast, I thrive in data-rich, creative, and innovative environments.
+ Lead Full-Stack Software Engineer with 6+ years of experience designing and building scalable, reliable, and high-performance software. Expertise in leading and architecting full-stack teams, creating highly available backend microservices, and implementing modern frontend solutions. Proficient, Go, TypeScript, and Python, with a strong focus on observability, CI/CD pipelines, and cloud-native architectures. Skilled in both backend and frontend development, I thrive in data-rich, creative, and innovative environments.
 
 ___
 
 ### **Skills and Software**
 
 * **Back End:**
-  * `Go` (Goroutines, templ, zap, gorm, typescriptify, xc)
-  * `TypeScript` (Node.js, NestJS, TypeORM, jest, npm, yarn)
-  * `Python` (Pandas, NumPy, Scikit, TensorFlow, Keras, Jupyter, Pytest, Mocker)
-  * `Java` & some `Scala` (Spring, Apache, JUnit, Maven, Gradle)
+  * `Go` (Goroutines, zap, templ, gorm, typescriptify, xc)
+  * `Python` (Pandas, Scikit, TensorFlow, Jupyter, Pytest)
+  * `TypeScript` (Node.js, NestJS, TypeORM, npm)
+  * `Java` & `Scala` (Spring Boot, Kafka, Gradle)
 * **Front End:**
-  * `TypeScript` & `JavaScript` (`React`, `Next.js`, ChakraUI, Storybook)
-  * `HTML5` and `CSS3`
-* **Database and Data Engineering:**
-  * RDBMS/ SQL (`PostgreSQL`, `Oracle`, `SQL Server`, `MySQL`)
-  * NoSQL (`MongoDB`, `DynamoDB`, `Neo4j`)
-  * `Snowflake` & `Fivetran` exposure
+  * `TypeScript` & `JavaScript` (`React`, `Redux`, `Next.js`, ChakraUI, Storybook)
+  * `HTML5`, `CSS3`, Responsive Design
 * **Architecture and Cloud:**
-  * `AWS`: Lambda, SQS, EventBridge, Step Functions, ECS, EKS, ECR, Cloudwatch
-  * Infrastructure as Code: `Terraform` & `CDK`
-  * `CI/CD`: GitHub Workflows, `Test Driven Development`, `Launch Darkly`
-  * `Docker` & `Kubernetes`
+  * `AWS` (Lambda, SQS, ECS, EKS, Step Functions, CloudWatch)
+  * `Kubernetes`, `Docker`, Microservices
+  * Infrastructure as Code: `Terraform`, `CDK`
+  * `CI/CD`: GitHub Workflows, Jenkins, Test-Driven Development, Launch Darkly
   * `RESTful` Web Services & `WebSockets`
+* **Database and Data Engineering:**
+  * SQL (PostgreSQL, MySQL, SQL Server)
+  * NoSQL (MongoDB, DynamoDB, Neo4j)
 
 ___
 
@@ -36,9 +35,9 @@ ___
 🏆 Winner: Best use of AI / ML (awarded by AWS)  
 🏆 Winner: Best use of location (awarded by ESRI)
 
-**Presentation**: <https://youtu.be/xDyxznaKjCQ?t=1913> | **Code**: <https://github.com/HateDetector>
+During this competitive hackathon, I led a team to create **Hate Detector**, a tool that identifies and visualizes hate speech networks on social media. We processed 18.5 million tweets using `Python` and advanced machine learning models, including a custom trained `Convolutional Neural Network` (CNN) from my own research. The project showcased my ability to innovate and execute swiftly under pressure, earning top awards for our impactful use of AI and location-based data.
 
-Utilising my Master's thesis NLP research and in-depth knowledge of `Python`, I spearheaded a team of engineers to develop a tool to detect and visualise networks of hate speech. The team scraped 18.5 million tweets related to the 2020 US Election and classified them using a consensus of three machine learning models: `Logistic Regression`, `Support Vector Machines`, and my own `Convolutional Neural Network`. The data was loaded into a `Neo4j` graph database and visualised in order to analyse trends and see patterns in the data.
+**Presentation**: [Watch Here](https://youtu.be/xDyxznaKjCQ?t=1913) | **Code**: [View on GitHub](https://github.com/HateDetector)
 
 ___
 
@@ -46,60 +45,58 @@ ___
 
 #### Full Stack Software Engineer | Aviva Zero | London | 01/2024 - present
 
-##### Leveraging cutting-edge technology to tackle climate change with products offering carbon offsetting
+*Driving transformative climate solutions through cutting-edge technology and robust system management.*
 
-* **Optimizing Backend Performance in Go**: I leverage my expertise in writing fast and performant backend code in `Go`, utilizing language features to achieve optimal outcomes.
-* **Crafting User Interfaces with Chakra UI and Storybook**: I translate `Figma` designs into well-tested, well-designed, accessible front-end code using `Chakra UI` and `Storybook`.
-* **Building Serverless Infrastructure with CDK**: I design and implement event-driven `serverless` infrastructure code using `CDK`. I have recent experience with `Step Functions` and Kinesis Firehose for efficient orchestration of user journeys and data processing.
-* **Continuous Improvement Champion**: I actively implement improvements to enhance code quality. Recent examples include making requests idempotent and implementing automated alerting and observability improvements to streamline `DevSecOps` processes.
-* **Promoting Developer Best Practices**: I foster a culture of transparency and collaboration by advocating for developer best practices. This includes creating improved `documentation`, providing constructive feedback through squad health checks, and participating in `post-incident reviews`.
+* **Performance Optimization**: Enhanced backend performance using `Go`, leading to significant improvements in system responsiveness and efficiency, thereby supporting a high volume of concurrent users and transactions.
+* **Scalable Impact and High Availability**: Instrumental in building and maintaining a platform that has sold over a million policies and supports tens of thousands of daily users. Ensured consistent 24/7 uptime and reliability by implementing rigorous monitoring and performance optimization practices.
+* **Infrastructure and Observability**: Spearheaded improvements in alerting and observability, implementing advanced monitoring solutions and automated alerting systems to ensure proactive issue detection and resolution. Developed robust serverless infrastructure with `CDK`, including `Step Functions` and `Kinesis Firehose` for efficient data processing and system resilience.
+* **Advisory Role and Roadmap Structuring**: Played a key advisory role in guiding the transition from a start-up to a more enterprise-scale system. Provided strategic input on structuring and producing roadmaps for product squads, facilitating a smooth transition to mature, scalable systems and processes.
+* **Advanced UI/UX Development**: Developed high-quality, accessible frontend interfaces from `Figma` designs using `Chakra UI` and `Storybook`, resulting in an engaging and seamless user experience.
 
 ___
 
 #### Lead Software Engineer (Tech Lead) | Flock Cover | London | 02/2023 - 01/2024
 
-##### Making the world quantifiably safer by reinventing insurance from the ground up
+*Making the world quantifiably safer by developing a next-generation insurance platform with a strong emphasis on modern cloud infrastructure and serverless technologies.*
 
-* **Developing the Next-Generation Insurance Platform**: I was responsible for working across the full stack to design, build, and deploy new features using cutting-edge `serverless` technologies in `AWS`. This includes developing with tools like `NodeJS`, `TypeScript`, Postgres, and Scala.
-* **Quality Assurance and Code Review**: I ensured the delivery of high-quality, well-tested features into our production system on a regular basis. I also reviewed the code of my fellow developers via Pull Requests on GitHub to maintain our high standards.
-* **Mentorship and Pair Programming**: I worked directly with other developers through pair programming and provide `mentorship` to less experienced team members, fostering a culture of knowledge sharing and continuous improvement within our team.
-* **Participation in Agile Practices**: I actively participated in Agile ceremonies such as planning sessions, retrospectives, stand-ups, etc. I collaborated with the Product and Tech team to design and estimate new features, and I helped maintain and improve our `infrastructure and pipelines`.
-* **Research and Continuous Learning**: I proactively researched new technologies to help us maintain a competitive edge. I was committed to learning new tech stacks when required, and I focus on developing a deep understanding of AWS serverless technologies to effectively deploy and monitor our platform.
+* **Developing Insurance Platform**: Led full-stack development of Flock's insurance platform, deploying features across backend (`NodeJS`, `TypeScript`) and frontend (`React`, `Next.js`). Focused on scalability and performance.
+* **Scalable Microservices Architecture**: Designed and deployed microservices using `AWS Lambda`, `ECS`, and `EventBridge`. Focused on creating observable and maintainable services that scale with user demand, ensuring 24x7 availability.
+* **Comprehensive Infrastructure as Code (IaC)**: Championed the use of `Terraform` and `CDK` for managing and provisioning cloud infrastructure. Created and maintained `Terraform` scripts to manage AWS resources, including EC2 instances, RDS databases, and Lambda functions, ensuring a repeatable and scalable infrastructure setup.
+* **Enhanced Observability and Reliability**: Developed robust monitoring and observability practices, integrating tools such as `AWS CloudWatch`, `Datadog`, and `LogRocket`. Implemented logging and alerting to ensure system reliability and facilitate proactive issue resolution.
+* **Fast and Reliable Deployment**: Utilized CI/CD pipelines to streamline the deployment process, incorporating `GitHub Actions` for automated builds, tests, and deployments. Ensured that code changes could be rapidly and reliably deployed to production.
+* **Team Leadership and Best Practices**: Fostered a high-performance engineering culture through mentorship and adherence to best practices in code quality and infrastructure management. Promoted a collaborative environment where innovation and continuous improvement were prioritized.
 
 ___
 
-#### Senior Consultant Full Stack Engineer | Infinity Works part of Accenture | 10/2021 - 02/2023
+#### Senior Consultant Full Stack Engineer | Infinity Works | 10/2021 - 02/2023
 
-##### Convex Insurance: utilising the latest technologies to offer new growth opportunities in the specialty market
+*Led the development of scalable solutions for specialty insurance using modern technology stacks and best practices in infrastructure management.*
 
-* Tech Lead for a new mission to automate the extraction, enrichment, and distribution of underwriting data to downstream systems.
-* Developing and maintaining multiple web applications for specialty insurance. Utilising `TypeScript`, `Node`, `Nest.js`, `React`, `Postgres`, `Docker`, and `AWS` (ECS, RDS, Lambda, S3, EventBridge, CDK).
-* Designing and implementing complex integrations and automations, utilising `serverless` and `event-driven architectures`.
-* Working closely with the client to understand their vision and refine a roadmap of delivery.
-* Mentoring, pair programming, and peer reviewing the work of junior developers.
-* Leading agile ceremonies on behalf of the scrum master.
+* **Automation in Specialty Insurance**: Led the development of automation tools for underwriting data extraction and distribution. Utilized `TypeScript`, `Node.js`, and `Postgres` to build scalable, maintainable solutions integrated with AWS.
+* **Complex Integrations and Automations**: Developed and maintained complex integrations and automations using serverless and event-driven architectures. Employed tools like `AWS Step Functions` and `EventBridge` for orchestrating workflows and managing state across various services.
+* **End-to-End Infrastructure as Code (IaC)**: Implemented IaC using `Terraform` to define and manage cloud infrastructure, ensuring consistency and reliability across environments. Developed and maintained `Terraform` modules for provisioning AWS resources, including VPCs, security groups, and Lambda functions.
+* **Serverless Microservices**: Architected and deployed serverless microservices using AWS technologies such as `Lambda`, `API Gateway`, and `DynamoDB`. Designed these services to be highly available, scalable, and observable, integrating with monitoring tools like `CloudWatch` and `Datadog` for real-time performance insights.
+* **Client Collaboration and Roadmap Refinement**: Worked closely with clients to understand their needs and refine delivery roadmaps. Provided technical expertise in designing scalable solutions and ensuring successful project outcomes.
+* **Team Collaboration and Leadership**: Acted as a Tech Lead, guiding the team through challenging engineering problems, organizing knowledge-sharing sessions, and promoting a strong engineering culture.
 
 ___
 
 #### Software Engineer | UK Home Office | 09/2020 - 10/2021
 
-* Developing internal web applications in `AngularJS` and `ReactJS` with a focus on `TDD` and `BDD`.
-* Working closely with designers and user researchers to implement `Figma` wireframes to ensure the best possible user experience.
-* Implementing and maintaining a REST API in `Node.js` with back-end connections to NoSQL databases including `MongoDB`.
-* Working with multiple applications and application logic in `Docker` containers and managing them with `Kubernetes`, as well as experience using `Drone` for Continuous Integration.
-* Adding the infrastructure for new data sources to be loaded to the product, including work on the API, data stories, and creating mock data for testing.
-* Creating bespoke scripts to improve the efficiency and robustness of the product, for example, a `Python` script to update specified `Kubernetes` secrets when new data sources are added.
-* Advising and collaborating with Data Scientists when working on a `Python` packages that contain reusable code across repositories. For example, a `Neo4j` wrapper class to make connecting and reading data more abstract and user friendly.
+* **Developing High-Impact Government Applications**: Built web applications using `ReactJS` and `AngularJS`, with an emphasis on `TDD` and `BDD`. Collaborated with designers to implement responsive and user-friendly UIs.
+* **API Development and Integration**: Developed REST APIs in `Node.js` to interface with various data sources and services, including `MongoDB`. Built and maintained backend systems that processed large amounts of data efficiently.
+* **CI/CD and Containerization**: Managed application infrastructure using `Docker` and `Kubernetes`. Implemented continuous integration pipelines with `Drone` to automate testing and deployment.
+* **Automation and Scripting**: Developed Python scripts to automate Kubernetes secret management and other operational tasks, improving system resilience and reducing manual intervention.
+* **Collaborating with Data Scientists**: Worked closely with data scientists to design and implement ETL processes for extracting, transforming, and loading data into graph databases. Utilized `Neo4j` for pattern matching and analysis. This work was crucial for deploying machine learning models aimed at detecting fraud and other criminal activities.
 
 ___
 
 #### IT Developer | Mott MacDonald | 09/2018 - 09/2020
 
-* Designed and developed a program (`Java 8`, `TDD`, `Maven`) to integrate data from our legacy Enterprise Resource Planning (ERP) system to our new Cloud Based ERP. Applying `SOLID principles` the program made use of `Dependency Injection` and common `Design Patterns` including a Factory, Consumer, and Producer. In the process, creating a bespoke RESTful API library for making requests to the new ERP.
-* Analysed and developed a prototype procurement and purchasing integration between ServiceNow and our ERP. Written in `JavaScript`, the integration utilised RESTful APIs, complex workflows, business rules and SMTP servers.
-* Cloud based back-end development of extensions - in `Java` with `XML` configurations - to our PaaS ERP. Acting as the lead technical expert on extensions, despite only being with the company for a short time, highlighting my ability to grasp new technologies.
-* Designing, developing, and deploying bespoke integrations with our ERP. Utilising Java and recent improvements in `Object Oriented` and `Functional` Programming such as: `Streams` and `Lambdas`.
-* Developing electronic forms in JavaScript, Java, and `PL/SQL` with a focus on UI and UX.
+* **ERP Integration and Automation**: Developed integration programs in `Java` to connect legacy systems with cloud-based ERPs. Applied `SOLID principles`, `Design Patterns`, and `TDD` to deliver maintainable and reliable code.
+* **Cloud-Based Development**: Developed back-end extensions for PaaS ERP solutions, creating RESTful APIs and enhancing cloud services.
+* **Data-Driven Solutions**: Designed JavaScript-based electronic forms and workflows to automate business processes. Worked with large datasets using `PL/SQL` and developed backend solutions that aligned with business needs.
+* **Leadership and Ownership**: Acted as the technical lead on multiple projects, driving the architecture and delivery of complex solutions across departments.
 
 ___
 
@@ -107,31 +104,23 @@ ___
 
 #### Birkbeck, University of London | MSc Computer Science | Distinction | 09/2017 - 09/2019
 
-This intensive programme provided a solid grounding for a career in IT. It imparted an in-depth knowledge of computing, software development, and programming. I investigated current areas of research from `Cloud Computing` and `Big Data`, to `Machine Learning` and `Natural Language Processing`.
+Developed a deep understanding of core computer science principles, with a particular emphasis on algorithms, data structures, machine learning, and natural language processing (NLP). The program honed my ability to build scalable, efficient software solutions, particularly for my interest area of big data and AI-driven applications.
 
-In addition to cutting-edge research, the course covered a variety of topics including Object-Oriented and Functional Programming, `SOLID principles` and `Design Patterns`, the Software Development Life Cycle, Information Systems and Retrieval, Computer Architecture, Operating Systems, and fundamentals from `binary` and `boolean algebra`, to `data structures and algorithms`.
+##### Thesis: Character-level Convolutional Neural Networks for Hate Speech Detection with Intelligent Adversaries
 
-**Projects**: available at <https://github.com/JAWorsfold>
+Trained a CNN-based text classifier to automatically categorize large volumes of textual data. The project involved preprocessing raw text data, including tokenization and vectorization, and training multiple CNN models for multi-class classification. The model was designed to recognize subtle differences in language patterns, enabling high accuracy in distinguishing between various categories of text. This thesis combined my knowledge of NLP, deep learning, and data processing, culminating in a successful demonstration of text classification at scale.
 
 ___
 
 #### Royal Holloway, University of London | BA History | 2:1 | 09/2009 - 08/2013
 
-Studying history improved the depth and range of my transferable skills and developed my:
-
-* critical reasoning and analytical skills, including the capacity for creative problem solving.
-* communication in a structured, clear and persuasive manner, both orally and in writing.
-* self-reliance when working without direct supervision and managing time & priorities effectively.
+Developed strong analytical skills, creative problem-solving, and effective communication, all of which have proven valuable as non-technical skills in my transition to software development.
 
 ___
 
-### **Hobbies and Interest**
+### **Hobbies and Interests**
 
-* Reading and creative writing
-* Science and technology
-* Nature and the environment
-* Flying trapeze and gymnastics
-* Scuba diving
+When I am not coding, I enjoy creative writing, science and technology, flying trapeze and gymnastics, scuba diving and exploring the natural world.
 
 <p class="screening-text">Note: This message is included because I believe AI-based CV screening, while efficient, can overlook human nuances and creativity, potentially disregarding talented candidates. Human review remains essential for truly understanding a candidate's full potential. It will not be visible on the generated pdf.</p>
 
