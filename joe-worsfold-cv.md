@@ -38,7 +38,7 @@ ___
 
 **Presentation**: <https://youtu.be/xDyxznaKjCQ?t=1913> | **Code**: <https://github.com/HateDetector>
 
-Utilising my in-depth knowledge of `Python` and Master's thesis research, I spearheaded a team of engineers to develop a tool to detect and visualise networks of hate speech. The team scraped 18.5 million tweets related to the 2020 US Election and classified them using a consensus of three machine learning models: `Logistic Regression`, `Support Vector Machines`, and my own `Convolutional Neural Network`. The data was loaded into a `Neo4j` graph database and visualised in order to analyse trends and see patterns in the data.
+Utilising my Master's thesis NLP research and in-depth knowledge of `Python`, I spearheaded a team of engineers to develop a tool to detect and visualise networks of hate speech. The team scraped 18.5 million tweets related to the 2020 US Election and classified them using a consensus of three machine learning models: `Logistic Regression`, `Support Vector Machines`, and my own `Convolutional Neural Network`. The data was loaded into a `Neo4j` graph database and visualised in order to analyse trends and see patterns in the data.
 
 ___
 
