@@ -2,7 +2,7 @@
 
 ## **Summary**
 
- Lead Full-Stack Software Engineer with 6+ years of experience designing and building scalable, reliable, and high-performance software. Expertise in leading and architecting full-stack teams, creating highly available backend microservices, and implementing modern frontend solutions. Proficient, Go, TypeScript, and Python, with a strong focus on observability, CI/CD pipelines, and cloud-native architectures. Skilled in both backend and frontend development, I thrive in data-rich, creative, and innovative environments.
+ Lead Full Stack Software Engineer with 7+ years of experience designing and building scalable, reliable, and high-performance software. Expertise in leading and architecting full-stack teams, creating highly available backend microservices, and implementing modern frontend solutions. Proficient, Go, TypeScript, and Python, with a strong focus on observability, CI/CD pipelines, and cloud-native architectures. Skilled in both backend and frontend development, I thrive in data-rich, creative, and innovative environments.
 
 ___
 
@@ -10,8 +10,8 @@ ___
 
 * **Back End:**
   * `Go` (Goroutines, zap, templ, gorm, typescriptify, xc)
-  * `Python` (Pandas, Scikit, TensorFlow, Jupyter, Pytest)
   * `TypeScript` (Node.js, NestJS, TypeORM, npm)
+  * `Python` (Pandas, Scikit, TensorFlow, Jupyter, Pytest)
   * `Java` & `Scala` (Spring Boot, Kafka, Gradle)
 * **Front End:**
   * `TypeScript` & `JavaScript` (`React`, `Redux`, `Next.js`, ChakraUI, Storybook)
@@ -23,35 +23,22 @@ ___
   * `CI/CD`: GitHub Workflows, Jenkins, Test-Driven Development, Launch Darkly
   * `RESTful` Web Services & `WebSockets`
 * **Database and Data Engineering:**
-  * SQL (PostgreSQL, MySQL, SQL Server)
-  * NoSQL (MongoDB, DynamoDB, Neo4j)
-
-___
-
-### **Achievements**
-
-#### Hack Hate 2020: Hate Detector | 10/2020
-
-🏆 Winner: Best use of AI / ML (awarded by AWS)  
-🏆 Winner: Best use of location (awarded by ESRI)
-
-During this competitive hackathon, I led a team to create **Hate Detector**, a tool that identifies and visualizes hate speech networks on social media. We processed 18.5 million tweets using `Python` and advanced machine learning models, including a custom trained `Convolutional Neural Network` (CNN) from my own research. The project showcased my ability to innovate and execute swiftly under pressure, earning top awards for our impactful use of AI and location-based data.
-
-**Presentation**: [Watch Here](https://youtu.be/xDyxznaKjCQ?t=1913) | **Code**: [View on GitHub](https://github.com/HateDetector)
+  * `SQL` (PostgreSQL, MySQL, SQL Server)
+  * `NoSQL` (MongoDB, DynamoDB, Neo4j)
 
 ___
 
 ### **Experience**
 
-#### Full Stack Software Engineer | Aviva Zero | London | 01/2024 - present
+#### Senior Full Stack Software Engineer | Aviva Zero | London | 01/2024 - present
 
 *Driving transformative climate solutions through cutting-edge technology and robust system management.*
 
-* **Performance Optimization**: Enhanced backend performance using `Go`, leading to significant improvements in system responsiveness and efficiency, thereby supporting a high volume of concurrent users and transactions.
 * **Scalable Impact and High Availability**: Instrumental in building and maintaining a platform that has sold over a million policies and supports tens of thousands of daily users. Ensured consistent 24/7 uptime and reliability by implementing rigorous monitoring and performance optimization practices.
-* **Infrastructure and Observability**: Spearheaded improvements in alerting and observability, implementing advanced monitoring solutions and automated alerting systems to ensure proactive issue detection and resolution. Developed robust serverless infrastructure with `CDK`, including `Step Functions` and `Kinesis Firehose` for efficient data processing and system resilience.
+* **Backend Performance Optimization**: Enhanced backend performance using `Go`, leading to significant improvements in system responsiveness and efficiency, thereby supporting a high volume of concurrent users and transactions.
+* **Advanced UI/UX Development**: Developed high-quality, accessible `React` frontends using `Figma` designs, `Chakra UI` components, and `Storybook`, resulting in an engaging and seamless user experience.
+* **Infrastructure and Observability**: Spearheaded improvements in alerting and observability, implementing advanced monitoring solutions and automated alerting systems to ensure proactive issue detection and resolution.
 * **Advisory Role and Roadmap Structuring**: Played a key advisory role in guiding the transition from a start-up to a more enterprise-scale system. Provided strategic input on structuring and producing roadmaps for product squads, facilitating a smooth transition to mature, scalable systems and processes.
-* **Advanced UI/UX Development**: Developed high-quality, accessible frontend interfaces from `Figma` designs using `Chakra UI` and `Storybook`, resulting in an engaging and seamless user experience.
 
 ___
 
@@ -62,22 +49,20 @@ ___
 * **Developing Insurance Platform**: Led full-stack development of Flock's insurance platform, deploying features across backend (`NodeJS`, `TypeScript`) and frontend (`React`, `Next.js`). Focused on scalability and performance.
 * **Scalable Microservices Architecture**: Designed and deployed microservices using `AWS Lambda`, `ECS`, and `EventBridge`. Focused on creating observable and maintainable services that scale with user demand, ensuring 24x7 availability.
 * **Comprehensive Infrastructure as Code (IaC)**: Championed the use of `Terraform` and `CDK` for managing and provisioning cloud infrastructure. Created and maintained `Terraform` scripts to manage AWS resources, including EC2 instances, RDS databases, and Lambda functions, ensuring a repeatable and scalable infrastructure setup.
-* **Enhanced Observability and Reliability**: Developed robust monitoring and observability practices, integrating tools such as `AWS CloudWatch`, `Datadog`, and `LogRocket`. Implemented logging and alerting to ensure system reliability and facilitate proactive issue resolution.
 * **Fast and Reliable Deployment**: Utilized CI/CD pipelines to streamline the deployment process, incorporating `GitHub Actions` for automated builds, tests, and deployments. Ensured that code changes could be rapidly and reliably deployed to production.
 * **Team Leadership and Best Practices**: Fostered a high-performance engineering culture through mentorship and adherence to best practices in code quality and infrastructure management. Promoted a collaborative environment where innovation and continuous improvement were prioritized.
 
 ___
 
-#### Senior Consultant Full Stack Engineer | Infinity Works | 10/2021 - 02/2023
+#### Senior Consultant Full Stack Engineer | Infinity Works part of Accenture | 10/2021 - 02/2023
 
 *Led the development of scalable solutions for specialty insurance using modern technology stacks and best practices in infrastructure management.*
 
+* **Team Collaboration and Leadership**: Acted as a Tech Lead, guiding the team through challenging engineering problems, organizing knowledge-sharing sessions, and promoting a strong engineering culture.
 * **Automation in Specialty Insurance**: Led the development of automation tools for underwriting data extraction and distribution. Utilized `TypeScript`, `Node.js`, and `Postgres` to build scalable, maintainable solutions integrated with AWS.
 * **Complex Integrations and Automations**: Developed and maintained complex integrations and automations using serverless and event-driven architectures. Employed tools like `AWS Step Functions` and `EventBridge` for orchestrating workflows and managing state across various services.
-* **End-to-End Infrastructure as Code (IaC)**: Implemented IaC using `Terraform` to define and manage cloud infrastructure, ensuring consistency and reliability across environments. Developed and maintained `Terraform` modules for provisioning AWS resources, including VPCs, security groups, and Lambda functions.
 * **Serverless Microservices**: Architected and deployed serverless microservices using AWS technologies such as `Lambda`, `API Gateway`, and `DynamoDB`. Designed these services to be highly available, scalable, and observable, integrating with monitoring tools like `CloudWatch` and `Datadog` for real-time performance insights.
 * **Client Collaboration and Roadmap Refinement**: Worked closely with clients to understand their needs and refine delivery roadmaps. Provided technical expertise in designing scalable solutions and ensuring successful project outcomes.
-* **Team Collaboration and Leadership**: Acted as a Tech Lead, guiding the team through challenging engineering problems, organizing knowledge-sharing sessions, and promoting a strong engineering culture.
 
 ___
 
@@ -86,7 +71,6 @@ ___
 * **Developing High-Impact Government Applications**: Built web applications using `ReactJS` and `AngularJS`, with an emphasis on `TDD` and `BDD`. Collaborated with designers to implement responsive and user-friendly UIs.
 * **API Development and Integration**: Developed REST APIs in `Node.js` to interface with various data sources and services, including `MongoDB`. Built and maintained backend systems that processed large amounts of data efficiently.
 * **CI/CD and Containerization**: Managed application infrastructure using `Docker` and `Kubernetes`. Implemented continuous integration pipelines with `Drone` to automate testing and deployment.
-* **Automation and Scripting**: Developed Python scripts to automate Kubernetes secret management and other operational tasks, improving system resilience and reducing manual intervention.
 * **Collaborating with Data Scientists**: Worked closely with data scientists to design and implement ETL processes for extracting, transforming, and loading data into graph databases. Utilized `Neo4j` for pattern matching and analysis. This work was crucial for deploying machine learning models aimed at detecting fraud and other criminal activities.
 
 ___
@@ -94,9 +78,20 @@ ___
 #### IT Developer | Mott MacDonald | 09/2018 - 09/2020
 
 * **ERP Integration and Automation**: Developed integration programs in `Java` to connect legacy systems with cloud-based ERPs. Applied `SOLID principles`, `Design Patterns`, and `TDD` to deliver maintainable and reliable code.
-* **Cloud-Based Development**: Developed back-end extensions for PaaS ERP solutions, creating RESTful APIs and enhancing cloud services.
 * **Data-Driven Solutions**: Designed JavaScript-based electronic forms and workflows to automate business processes. Worked with large datasets using `PL/SQL` and developed backend solutions that aligned with business needs.
-* **Leadership and Ownership**: Acted as the technical lead on multiple projects, driving the architecture and delivery of complex solutions across departments.
+
+___
+
+## **Achievements & Projects**
+
+### **Hack Hate 2020: Hate Detector**  
+
+🏆 Winner: Best use of AI / ML (awarded by AWS)  
+🏆 Winner: Best use of location (awarded by ESRI)  
+
+Led a project to detect and visualize hate speech networks on social media. Processed and classified 18.5M+ tweets using `Python`, `TensorFlow` `Scikit`, and GIS mapping tools. Built a data pipeline for large-scale text processing and sentiment analysis.
+
+[**Presentation**](https://youtu.be/xDyxznaKjCQ?t=1913) | [**Code**](https://github.com/HateDetector)
 
 ___
 
@@ -115,12 +110,6 @@ ___
 #### Royal Holloway, University of London | BA History | 2:1 | 09/2009 - 08/2013
 
 Developed strong analytical skills, creative problem-solving, and effective communication, all of which have proven valuable as non-technical skills in my transition to software development.
-
-___
-
-### **Hobbies and Interests**
-
-When I am not coding, I enjoy creative writing, science and technology, flying trapeze and gymnastics, scuba diving and exploring the natural world.
 
 <p class="screening-text">Note: This message is included because I believe AI-based CV screening, while efficient, can overlook human nuances and creativity, potentially disregarding talented candidates. Human review remains essential for truly understanding a candidate's full potential. It will not be visible on the generated pdf.</p>
 
